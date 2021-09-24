@@ -1,0 +1,904 @@
+,pi_key,discipline_classification,discipline.group,Id,Group,Sex,ACTIVITY,unique_activities,unique_activity_grouped,unique_activity_sep_5plus,project_count,project_sep_8plus,activity_per_project,Act_per_proj_quant,Act_per_proj_4grp,activity_grouped
+1,nih_1840203,AGRI,AGRI,"Lauffenburger, Douglas A",comp,M,P50,5,5+,5+,9,8+,0.555555556,3,3,P
+2,nih_1852587,CHEM,CHEM,"Lippard, Stephen J",study,M,P41,3,3 to 4,3,8,8+,0.375,2,1,P41
+3,nih_1857677,PHAR,PHAR,"Samulski, Richard J",comp,M,P01,5,5+,5+,13,8+,0.384615385,2,1,P01
+4,nih_1857694,IMMU,IMMU,"Green, Douglas R",study,M,R37,4,3 to 4,4,9,8+,0.444444444,2,2,R
+5,nih_1857785,MULT,MULT,"Skoultchi, Arthur I",comp,M,P30,4,3 to 4,4,9,8+,0.444444444,2,2,P
+6,nih_1857787,IMMU,IMMU,"Harrison, Stephen C",comp,M,U19,8,5+,5+,15,8+,0.533333333,3,3,U
+7,nih_1857799,IMMU,IMMU,"Cronan, John E",comp,M,U54,3,3 to 4,3,3,3,1,5,4,U
+8,nih_1857949,NEUR,NEUR,"Delpire, Eric J",comp,M,R01,3,3 to 4,3,5,5,0.6,4,3,R01
+9,nih_1857999,MEDI,MEDI,"Cassis, Lisa A",comp,F,P20,4,3 to 4,4,8,8+,0.5,2,2,P
+10,nih_1858000,IMMU,IMMU,"Dunny, Gary M",comp,M,R56,2,1 to 2,2,7,7,0.285714286,1,1,R
+11,nih_1858016,MEDI,MEDI,"Bronner, Marianne",comp,F,P50,5,5+,5+,11,8+,0.454545455,2,2,P
+12,nih_1858017,AGRI,AGRI,"Witman, George B",study,M,P30,3,3 to 4,3,3,3,1,5,4,P
+13,nih_1858018,NEUR,NEUR,"Richter, Joel D",study,M,U54,4,3 to 4,4,7,7,0.571428571,4,3,U
+14,nih_1858025,MULT,MULT,"Lambright, David G",study,M,P01,2,1 to 2,2,2,2,1,5,4,P01
+15,nih_1858378,CENG,CENG,"Schultz, Peter G",study,M,R01,1,1 to 2,1,5,5,0.2,1,1,R01
+16,nih_1858379,NULL.,OTHER,"Carter, Charles W",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+17,nih_1858393,MULT,MULT,"Puglisi, Joseph D",study,M,R37,2,1 to 2,2,8,8+,0.25,1,1,R
+18,nih_1858394,IMMU,IMMU,"Shuman, Howard A",comp,M,U54,3,3 to 4,3,4,4,0.75,5,4,U
+19,nih_1858403,MULT,MULT,"Kowalczykowski, Stephen C",study,M,R37,2,1 to 2,2,5,5,0.4,2,1,R
+20,nih_1858404,CENG,CENG,"Liu, Hung-wen",study,M,R01,2,1 to 2,2,4,4,0.5,2,2,R01
+21,nih_1858410,CHEM,CHEM,"Markley, John L",study,M,P50,5,5+,5+,9,8+,0.555555556,3,3,P
+22,nih_1858415,MULT,MULT,"Stroud, Robert M",study,M,P50,6,5+,5+,15,8+,0.4,2,1,P
+23,nih_1858485,NEUR,NEUR,"Spirou, George A",comp,M,P41,5,5+,5+,8,8+,0.625,4,3,P41
+24,nih_1858536,MEDI,MEDI,"Cohen, Pinchas",comp,M,P50,4,3 to 4,4,10,8+,0.4,2,1,P
+25,nih_1858670,MEDI,MEDI,"Musen, Mark A",comp,M,U54,3,3 to 4,3,6,6,0.5,2,2,U
+26,nih_1858679,BIOC,BIOC,"King, Stephen M",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+27,nih_1858704,NEUR,NEUR,"Gelles, Jeff",study,M,R37,3,3 to 4,3,5,5,0.6,4,3,R
+28,nih_1858803,MULT,MULT,"Young, Richard A",comp,M,P01,3,3 to 4,3,9,8+,0.333333333,1,1,P01
+29,nih_1858811,MULT,MULT,"Golan, David E",comp,M,U54,3,3 to 4,3,4,4,0.75,5,4,U
+30,nih_1858903,BIOC,BIOC,"Shuman, Stewart H",study,M,P41,4,3 to 4,4,7,7,0.571428571,4,3,P41
+31,nih_1858963,AGRI,AGRI,"Macara, Ian G",study,M,P30,4,3 to 4,4,8,8+,0.5,2,2,P
+32,nih_1859093,NEUR,NEUR,"Strickland, Sidney",comp,M,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+33,nih_1859098,CENG,CENG,"Herschlag, Daniel",study,M,P41,4,3 to 4,4,5,5,0.8,5,4,P41
+34,nih_1859109,MULT,MULT,"Schimmel, Paul R",comp,M,P41,2,1 to 2,2,4,4,0.5,2,2,P41
+35,nih_1859116,IMMU,IMMU,"Chen, Youhai H",comp,M,R56,2,1 to 2,2,14,8+,0.142857143,1,1,R
+36,nih_1859162,BIOC,BIOC,"Dutta, Anindya",comp,M,P01,4,3 to 4,4,9,8+,0.444444444,2,2,P01
+37,nih_1859164,CHEM,CHEM,"Williams, Robert M",comp,M,R01,1,1 to 2,1,5,5,0.2,1,1,R01
+38,nih_1859172,MULT,MULT,"Mekalanos, John J",comp,M,U54,4,3 to 4,4,7,7,0.571428571,4,3,U
+39,nih_1859360,AGRI,AGRI,"Fuller, Margaret T",study,F,U54,4,3 to 4,4,7,7,0.571428571,4,3,U
+40,nih_1859365,CHEM,CHEM,"Tang, Pei",study,F,P41,3,3 to 4,3,5,5,0.6,4,3,P41
+41,nih_1859377,BIOC,BIOC,"Kalderon, Daniel D",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+42,nih_1859383,IMMU,IMMU,"Kushner, Sidney R",study,M,R56,2,1 to 2,2,3,3,0.666666667,4,3,R
+43,nih_1859424,CENG,CENG,"Weiss, Michael A",comp,M,R01,2,1 to 2,2,8,8+,0.25,1,1,R01
+44,nih_1859694,IMMU,IMMU,"Grossman, Alan D",study,M,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+45,nih_1860024,AGRI,AGRI,"Blenis, John",study,M,R37,3,3 to 4,3,5,5,0.6,4,3,R
+46,nih_1860132,NEUR,NEUR,"Adelman, John P",comp,M,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+47,nih_1860178,MULT,MULT,"Weissman, Irving L",comp,M,P01,7,5+,5+,17,8+,0.411764706,2,2,P01
+48,nih_1860212,IMMU,IMMU,"Butcher, Eugene C",comp,M,U19,8,5+,5+,17,8+,0.470588235,2,2,U
+49,nih_1860213,CENG,CENG,"Houk, Kendall N",study,M,R01,2,1 to 2,2,5,5,0.4,2,1,R01
+50,nih_1860225,BIOC,BIOC,"Wek, Ronald C",study,M,R01,2,1 to 2,2,4,4,0.5,2,2,R01
+51,nih_1860231,MULT,MULT,"Spudich, James A",study,M,P01,2,1 to 2,2,5,5,0.4,2,1,P01
+52,nih_1860233,BIOC,BIOC,"Tainer, John A",comp,M,P01,2,1 to 2,2,12,8+,0.166666667,1,1,P01
+53,nih_1860244,PHAR,PHAR,"Newton, Alexandra C",study,F,P01,3,3 to 4,3,5,5,0.6,4,3,P01
+54,nih_1860472,IMMU,IMMU,"Sundquist, Wesley I",comp,M,P50,4,3 to 4,4,7,7,0.571428571,4,3,P
+55,nih_1860523,BIOC,BIOC,"Hill, Christopher P",study,M,P41,5,5+,5+,8,8+,0.625,4,3,P41
+56,nih_1860696,CENG,CENG,"Weeks, Kevin M",study,M,R01,1,1 to 2,1,6,6,0.166666667,1,1,R01
+57,nih_1860700,BIOC,BIOC,"Berger, Shelley L",comp,F,P01,4,3 to 4,4,8,8+,0.5,2,2,P01
+58,nih_1860709,AGRI,AGRI,"Meyer, Tobias",study,M,R21,4,3 to 4,4,11,8+,0.363636364,1,1,R
+59,nih_1860711,MEDI,MEDI,"Ayala, Alfred",study,M,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+60,nih_1860712,IMMU,IMMU,"Nemazee, David",comp,M,P01,5,5+,5+,12,8+,0.416666667,2,2,P01
+61,nih_1860713,MEDI,MEDI,"Condeelis, John S",comp,M,U54,6,5+,5+,13,8+,0.461538462,2,2,U
+62,nih_1860716,CHEM,CHEM,"Freed, Jack H",comp,M,P41,2,1 to 2,2,4,4,0.5,2,2,P41
+63,nih_1860775,IMMU,IMMU,"Brenner, Michael B",comp,M,P01,7,5+,5+,14,8+,0.5,2,2,P01
+64,nih_1860807,BIOC,BIOC,"Goodman, Myron F",comp,M,P01,5,5+,5+,9,8+,0.555555556,3,3,P01
+65,nih_1860974,AGRI,AGRI,"Mango, Susan E",study,F,R37,3,3 to 4,3,4,4,0.75,5,4,R
+66,nih_1861000,BIOC,BIOC,"Johnson, Keith R",comp,M,P20,6,5+,5+,8,8+,0.75,5,4,P
+67,nih_1861157,PHAR,PHAR,"Tukey, Robert H",comp,M,P42,2,1 to 2,2,5,5,0.4,2,1,P
+68,nih_1861158,PHAR,PHAR,"Rettie, Allan E",study,M,P01,3,3 to 4,3,6,6,0.5,2,2,P01
+69,nih_1861164,MEDI,MEDI,"Elston, Robert C",comp,M,P50,4,3 to 4,4,5,5,0.8,5,4,P
+70,nih_1861270,MULT,MULT,"Sauer, Robert T",comp,M,P41,3,3 to 4,3,5,5,0.6,4,3,P41
+71,nih_1861603,IMMU,IMMU,"Altman, Amnon",comp,M,R01,2,1 to 2,2,6,6,0.333333333,1,1,R01
+72,nih_1861604,IMMU,IMMU,"Hatfull, Graham F",comp,M,R01,3,3 to 4,3,8,8+,0.375,2,1,R01
+73,nih_1861611,BIOC,BIOC,"Symington, Lorraine S",study,F,R01,2,1 to 2,2,4,4,0.5,2,2,R01
+74,nih_1861844,BIOC,BIOC,"Cooke, Nancy E",comp,F,P30,2,1 to 2,2,6,6,0.333333333,1,1,P
+75,nih_1861853,IMMU,IMMU,"Mondragon, Alfonso",study,M,R01,2,1 to 2,2,4,4,0.5,2,2,R01
+76,nih_1861866,MULT,MULT,"Manley, James L",study,M,P41,3,3 to 4,3,6,6,0.5,2,2,P41
+77,nih_1861974,MULT,MULT,"Cate, Jamie H",study,M,P01,3,3 to 4,3,3,3,1,5,4,P01
+78,nih_1862124,MULT,MULT,"Boeke, Jef D",study,M,U54,5,5+,5+,11,8+,0.454545455,2,2,U
+79,nih_1862126,AGRI,AGRI,"Haber, James E",study,M,R37,3,3 to 4,3,5,5,0.6,4,3,R
+80,nih_1862127,AGRI,AGRI,"Lew, Daniel J",study,M,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+81,nih_1862128,MULT,MULT,"Snyder, Michael P",study,M,U54,6,5+,5+,17,8+,0.352941176,1,1,U
+82,nih_1862146,PHAR,PHAR,"Corey, David R",study,M,P20,2,1 to 2,2,6,6,0.333333333,1,1,P
+83,nih_1862328,MULT,MULT,"Baehrecke, Eric H",study,M,R56,2,1 to 2,2,6,6,0.333333333,1,1,R
+84,nih_1862351,AGRI,AGRI,"Wolgemuth, Debra J",comp,F,P01,5,5+,5+,6,6,0.833333333,5,4,P01
+85,nih_1862427,PHAR,PHAR,"Cronstein, Bruce N",comp,M,UL1,4,3 to 4,4,11,8+,0.363636364,1,1,UL
+86,nih_1862569,NEUR,NEUR,"Maricq, Andres V",comp,M,DP1,2,1 to 2,2,4,4,0.5,2,2,DP
+87,nih_1862641,NEUR,NEUR,"Hartenstein, Volker",comp,M,P41,3,3 to 4,3,5,5,0.6,4,3,P41
+88,nih_1862714,NEUR,NEUR,"Lester, Henry A",comp,M,P50,6,5+,5+,16,8+,0.375,2,1,P
+89,nih_1862825,MEDI,MEDI,"Kruger, Warren D",comp,M,R01,1,1 to 2,1,5,5,0.2,1,1,R01
+90,nih_1862828,IMMU,IMMU,"Limper, Andrew H",comp,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+91,nih_1862863,MULT,MULT,"Clapham, David E",comp,M,P01,3,3 to 4,3,5,5,0.6,4,3,P01
+92,nih_1862869,CHEM,CHEM,"Sampson, Nicole S",comp,F,R01,2,1 to 2,2,7,7,0.285714286,1,1,R01
+93,nih_1862913,PHAR,PHAR,"Neubig, Richard R",study,M,R01,3,3 to 4,3,5,5,0.6,4,3,R01
+94,nih_1862941,MEDI,MEDI,"Harrison, David G",comp,M,M01,3,3 to 4,3,11,8+,0.272727273,1,1,M
+95,nih_1862946,NEUR,NEUR,"Sieck, Gary C",comp,M,R01,2,1 to 2,2,9,8+,0.222222222,1,1,R01
+96,nih_1862965,NEUR,NEUR,"Nerbonne, Jeanne M",comp,F,P41,3,3 to 4,3,9,8+,0.333333333,1,1,P41
+97,nih_1863075,AGRI,AGRI,"Loomis, William F",study,M,P41,3,3 to 4,3,5,5,0.6,4,3,P41
+98,nih_1863076,NEUR,NEUR,"Capecchi, Mario R",comp,M,P01,3,3 to 4,3,6,6,0.5,2,2,P01
+99,nih_1863102,AGRI,AGRI,"Schedl, Tim B",study,M,U41,2,1 to 2,2,4,4,0.5,2,2,U
+100,nih_1863113,BIOC,BIOC,"Rapraeger, Alan C",comp,M,R01,1,1 to 2,1,6,6,0.166666667,1,1,R01
+101,nih_1863117,NEUR,NEUR,"Wilson, Mark E",comp,M,P51,5,5+,5+,9,8+,0.555555556,3,3,P
+102,nih_1863167,PHAR,PHAR,"Giacomini, Kathleen M",study,F,M01,6,5+,5+,9,8+,0.666666667,4,3,M
+103,nih_1863176,PHAR,PHAR,"Wipf, Peter",comp,M,P50,6,5+,5+,9,8+,0.666666667,4,3,P
+104,nih_1863177,CENG,CENG,"Hartwig, John F",study,M,R37,2,1 to 2,2,4,4,0.5,2,2,R
+105,nih_1863178,AGRI,AGRI,"Dohlman, Henrik G",study,M,P41,3,3 to 4,3,8,8+,0.375,2,1,P41
+106,nih_1863190,PHAR,PHAR,"Schreiber, Stuart L",study,M,U54,9,5+,5+,10,8+,0.9,5,4,U
+107,nih_1863214,CHEM,CHEM,"Leary, Julie A",study,F,P01,2,1 to 2,2,3,3,0.666666667,4,3,P01
+108,nih_1863216,CHEM,CHEM,"Nocera, Daniel G",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+109,nih_1863219,MULT,MULT,"Kadonaga, James T",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+110,nih_1863223,AGRI,AGRI,"Sullivan, William T",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+111,nih_1863237,IMMU,IMMU,"Dubnau, David A",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+112,nih_1863242,NEUR,NEUR,"Wittenberg, Curt",study,M,P41,2,1 to 2,2,4,4,0.5,2,2,P41
+113,nih_1863260,MULT,MULT,"Ebright, Richard H",study,M,R01,3,3 to 4,3,7,7,0.428571429,2,2,R01
+114,nih_1863263,AGRI,AGRI,"Russell, Paul",comp,M,P42,3,3 to 4,3,5,5,0.6,4,3,P
+115,nih_1863265,IMMU,IMMU,"Bothwell, Alfred L",comp,M,P01,4,3 to 4,4,10,8+,0.4,2,1,P01
+116,nih_1863266,AGRI,AGRI,"Lis, John T",study,M,R01,2,1 to 2,2,8,8+,0.25,1,1,R01
+117,nih_1863275,CENG,CENG,"Griffin, Robert G",comp,M,P41,3,3 to 4,3,9,8+,0.333333333,1,1,P41
+118,nih_1863280,MULT,MULT,"Montminy, Marc R",comp,M,P01,3,3 to 4,3,9,8+,0.333333333,1,1,P01
+119,nih_1863286,IMMU,IMMU,"Fire, Andrew Z",study,M,U54,4,3 to 4,4,4,4,1,5,4,U
+120,nih_1863290,MULT,MULT,"Walter, Peter",study,M,P50,3,3 to 4,3,3,3,1,5,4,P
+121,nih_1863298,AGRI,AGRI,"Selker, Eric U",study,M,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+122,nih_1863303,IMMU,IMMU,"Egelman, Edward H",study,M,P41,2,1 to 2,2,5,5,0.4,2,1,P41
+123,nih_1863307,NEUR,NEUR,"Loew, Leslie M",comp,M,U54,4,3 to 4,4,10,8+,0.4,2,1,U
+124,nih_1863308,MULT,MULT,"Fink, Gerald R",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+125,nih_1863309,CENG,CENG,"Buchwald, Stephen L",study,M,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+126,nih_1863312,PHAR,PHAR,"Rock, Charles O",study,M,P30,3,3 to 4,3,4,4,0.75,5,4,P
+127,nih_1863319,CENG,CENG,"Sligar, Stephen G",study,M,U54,4,3 to 4,4,7,7,0.571428571,4,3,U
+128,nih_1863322,MULT,MULT,"Gall, Joseph G",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+129,nih_1863323,CHEM,CHEM,"Prestegard, James H",study,M,U54,5,5+,5+,9,8+,0.555555556,3,3,U
+130,nih_1863324,MEDI,MEDI,"Esko, Jeffrey D",study,M,P41,6,5+,5+,11,8+,0.545454545,3,3,P41
+131,nih_1863325,IMMU,IMMU,"Baker, Timothy S",study,M,P41,5,5+,5+,6,6,0.833333333,5,4,P41
+132,nih_1863326,NEUR,NEUR,"Winston, Fred M",study,M,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+133,nih_1863333,CENG,CENG,NA,NA,M,NA,1,1 to 2,1,2,2,0.5,2,2,NA
+134,nih_1863346,MULT,MULT,"Honig, Barry H",study,M,U54,4,3 to 4,4,4,4,1,5,4,U
+135,nih_1863349,BIOC,BIOC,"Johnson, Gary L",study,M,U01,5,5+,5+,9,8+,0.555555556,3,3,U
+136,nih_1863359,AGRI,AGRI,"Gerace, Larry R",study,M,P50,5,5+,5+,8,8+,0.625,4,3,P
+137,nih_1863363,CHEM,CHEM,"Dervan, Peter B",study,M,R01,2,1 to 2,2,3,3,0.666666667,4,3,R01
+138,nih_1863364,MULT,MULT,"Gierasch, Lila M",study,M,DP1,2,1 to 2,2,5,5,0.4,2,1,DP
+139,nih_1863367,IMMU,IMMU,"Roth, John R",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+140,nih_1863368,AGRI,AGRI,"Zakian, Virginia A",study,F,P01,3,3 to 4,3,5,5,0.6,4,3,P01
+141,nih_1863369,MULT,MULT,"Kirschner, Marc W",study,M,RC4,3,3 to 4,3,7,7,0.428571429,2,2,RC
+142,nih_1863375,MULT,MULT,"Rothman, James E",study,M,U54,3,3 to 4,3,6,6,0.5,2,2,U
+143,nih_1863377,NEUR,NEUR,"Meisler, Miriam H",study,F,RC1,2,1 to 2,2,3,3,0.666666667,4,3,RC
+144,nih_1863389,PHAR,PHAR,"Dennis, Edward A",study,M,U54,3,3 to 4,3,4,4,0.75,5,4,U
+145,nih_1863424,IMMU,IMMU,"Becker, Donald F",study,M,P20,3,3 to 4,3,4,4,0.75,5,4,P
+146,nih_1863431,NEUR,NEUR,"Tinoco, Ignacio",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+147,nih_1863435,BIOC,BIOC,"Balch, William E",comp,M,P41,5,5+,5+,14,8+,0.357142857,1,1,P41
+148,nih_1863502,NEUR,NEUR,"David, Larry L",comp,M,P01,3,3 to 4,3,4,4,0.75,5,4,P01
+149,nih_1863576,NEUR,NEUR,"Mitra, Sankar",comp,M,P01,2,1 to 2,2,7,7,0.285714286,1,1,P01
+150,nih_1863714,PHAR,PHAR,"Hruby, Victor J",comp,M,P01,2,1 to 2,2,5,5,0.4,2,1,P01
+151,nih_1863851,MULT,MULT,"Huibregtse, Jon",comp,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+152,nih_1863907,PHAR,PHAR,"Smithgall, Thomas E",comp,M,P50,4,3 to 4,4,12,8+,0.333333333,1,1,P
+153,nih_1863931,PHAR,PHAR,"Lau, Lester F",comp,M,R01,1,1 to 2,1,6,6,0.166666667,1,1,R01
+154,nih_1863934,MULT,MULT,"Baltimore, David",comp,M,P01,2,1 to 2,2,6,6,0.333333333,1,1,P01
+155,nih_1863974,IMMU,IMMU,"Varki, Ajit P",comp,M,P01,5,5+,5+,9,8+,0.555555556,3,3,P01
+156,nih_1863986,BIOC,BIOC,"Rifkin, Daniel B",comp,M,P01,3,3 to 4,3,6,6,0.5,2,2,P01
+157,nih_1864007,NULL.,OTHER,"Smith, Amos B",study,M,P01,4,3 to 4,4,7,7,0.571428571,4,3,P01
+158,nih_1864076,IMMU,IMMU,"Ginsberg, Mark H",comp,M,U54,5,5+,5+,13,8+,0.384615385,2,1,U
+159,nih_1864095,IMMU,IMMU,"Sodroski, Joseph G",comp,M,P51,7,5+,5+,14,8+,0.5,2,2,P
+160,nih_1864103,IMMU,IMMU,"Kronenberg, Mitchell",comp,M,RC4,6,5+,5+,13,8+,0.461538462,2,2,RC
+161,nih_1864105,IMMU,IMMU,"Wenzel, Sally E",comp,F,M01,4,3 to 4,4,9,8+,0.444444444,2,2,M
+162,nih_1864110,PHAR,PHAR,"Shen, Ben",comp,M,U19,5,5+,5+,7,7,0.714285714,5,4,U
+163,nih_1864111,PHAR,PHAR,"Chaiken, Irwin M",study,M,P01,4,3 to 4,4,9,8+,0.444444444,2,2,P01
+164,nih_1864123,IMMU,IMMU,"Handel, Tracy M",comp,F,U01,3,3 to 4,3,6,6,0.5,2,2,U
+165,nih_1864167,IMMU,IMMU,"Parrish, Colin R",comp,M,R01,2,1 to 2,2,5,5,0.4,2,1,R01
+166,nih_1864189,IMMU,IMMU,"Loker, Eric S",comp,M,P20,4,3 to 4,4,7,7,0.571428571,4,3,P
+167,nih_1864202,IMMU,IMMU,"White, Judith M",comp,F,U54,3,3 to 4,3,6,6,0.5,2,2,U
+168,nih_1864275,PHAR,PHAR,"Lang, Charles H",study,M,R37,2,1 to 2,2,6,6,0.333333333,1,1,R
+169,nih_1864400,NEUR,NEUR,"Klein, Peter S",comp,M,R01,2,1 to 2,2,6,6,0.333333333,1,1,R01
+170,nih_1864452,AGRI,AGRI,"Davis, Trisha N",study,F,P41,3,3 to 4,3,5,5,0.6,4,3,P41
+171,nih_1864603,PHAR,PHAR,"Javitch, Jonathan A",comp,M,U54,4,3 to 4,4,7,7,0.571428571,4,3,U
+172,nih_1864639,BIOC,BIOC,"Qin, Jun",comp,M,P01,2,1 to 2,2,3,3,0.666666667,4,3,P01
+173,nih_1864696,AGRI,AGRI,"Parkhurst, Susan M",study,F,R01,1,1 to 2,1,6,6,0.166666667,1,1,R01
+174,nih_1864703,COMP,OTHER,"Skolnick, Jeffrey",study,M,P41,3,3 to 4,3,4,4,0.75,5,4,P41
+175,nih_1864711,CHEM,CHEM,"Warshel, Arieh",study,M,R01,2,1 to 2,2,4,4,0.5,2,2,R01
+176,nih_1864759,PHAR,PHAR,"Stanton, Bruce A",comp,M,P20,4,3 to 4,4,7,7,0.571428571,4,3,P
+177,nih_1864839,BIOC,BIOC,"Stein, Gary S",comp,M,P01,4,3 to 4,4,10,8+,0.4,2,1,P01
+178,nih_1865094,AGRI,AGRI,"Baker, Nicholas E",study,M,R01,2,1 to 2,2,5,5,0.4,2,1,R01
+179,nih_1865102,AGRI,AGRI,"Morgan, David O",study,M,R37,2,1 to 2,2,5,5,0.4,2,1,R
+180,nih_1865104,BIOC,BIOC,"Bretscher, Anthony P",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+181,nih_1865133,BIOC,BIOC,"Barber, Diane L",study,F,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+182,nih_1865283,CENG,CENG,"Miller, Scott J",study,M,R37,2,1 to 2,2,4,4,0.5,2,2,R
+183,nih_1865288,MULT,MULT,"Pagano, Michele",comp,F,P30,5,5+,5+,7,7,0.714285714,5,4,P
+184,nih_1865319,CHEM,CHEM,"Scheraga, Harold A",study,M,P41,3,3 to 4,3,8,8+,0.375,2,1,P41
+185,nih_1865419,PHAR,PHAR,"Silverman, Richard B",study,M,R01,1,1 to 2,1,5,5,0.2,1,1,R01
+186,nih_1865596,CHEM,CHEM,"Case, David A",study,M,P41,3,3 to 4,3,6,6,0.5,2,2,P41
+187,nih_1865675,PHAR,PHAR,"Ratain, Mark J",comp,M,M01,4,3 to 4,4,5,5,0.8,5,4,M
+188,nih_1865898,IMMU,IMMU,"Kappes, Dietmar J",comp,M,R01,1,1 to 2,1,5,5,0.2,1,1,R01
+189,nih_1865909,NEUR,NEUR,"Simpkins, James W",comp,M,P01,3,3 to 4,3,5,5,0.6,4,3,P01
+190,nih_1865977,BIOC,BIOC,"Tomkinson, Alan E",study,M,P01,2,1 to 2,2,4,4,0.5,2,2,P01
+191,nih_1865979,CENG,CENG,"Silver, Pamela A",study,F,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+192,nih_1865986,CHEM,CHEM,"Aube, Jeffrey",study,M,P50,2,1 to 2,2,4,4,0.5,2,2,P
+193,nih_1865994,CHEM,CHEM,"Begley, Tadhg P",comp,M,R01,2,1 to 2,2,3,3,0.666666667,4,3,R01
+194,nih_1865995,BIOC,BIOC,"Carman, George M",study,M,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+195,nih_1866114,IMMU,IMMU,"Kielian, Margaret",study,F,U54,3,3 to 4,3,5,5,0.6,4,3,U
+196,nih_1866124,AGRI,AGRI,"Dong, Ke",study,F,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+197,nih_1866125,BIOC,BIOC,"Wente, Susan R",study,F,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+198,nih_1866381,AGRI,AGRI,"Duronio, Robert J",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+199,nih_1866387,IMMU,IMMU,"Harshey, Rasika M",study,F,R01,2,1 to 2,2,4,4,0.5,2,2,R01
+200,nih_1866408,AGRI,AGRI,"Dancis, Andrew B",comp,M,R01,2,1 to 2,2,5,5,0.4,2,1,R01
+201,nih_1866550,PHAR,PHAR,"Osheroff, Neil",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+202,nih_1866572,MEDI,MEDI,"Hall, John E",comp,M,P20,2,1 to 2,2,2,2,1,5,4,P
+203,nih_1866622,PHAR,PHAR,"Salvesen, Guy S",comp,M,U54,6,5+,5+,11,8+,0.545454545,3,3,U
+204,nih_1866808,PHAR,PHAR,"Reed, John C",comp,M,P01,6,5+,5+,23,8+,0.260869565,1,1,P01
+205,nih_1866951,MULT,MULT,"Bowie, James U",study,M,R01,1,1 to 2,1,7,7,0.142857143,1,1,R01
+206,nih_1866990,NEUR,NEUR,"Worley, Paul F",comp,M,P50,4,3 to 4,4,11,8+,0.363636364,1,1,P
+207,nih_1866999,PHAR,PHAR,"Marmorstein, Ronen",study,M,P41,3,3 to 4,3,10,8+,0.3,1,1,P41
+208,nih_1867005,MEDI,MEDI,"Miyamoto, Shigeki",comp,M,R56,2,1 to 2,2,5,5,0.4,2,1,R
+209,nih_1867042,AGRI,AGRI,"Marks, Michael S",comp,M,R01,3,3 to 4,3,9,8+,0.333333333,1,1,R01
+210,nih_1867332,NEUR,NEUR,"Harder, David R",comp,M,P01,2,1 to 2,2,7,7,0.285714286,1,1,P01
+211,nih_1867470,MULT,MULT,"Sasisekharan, Ram",study,M,U54,3,3 to 4,3,7,7,0.428571429,2,2,U
+212,nih_1867499,IMMU,IMMU,"Lieber, Michael R",comp,M,R37,3,3 to 4,3,6,6,0.5,2,2,R
+213,nih_1867652,AGRI,AGRI,"Toczyski, David P",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+214,nih_1867781,IMMU,IMMU,"Goff, Stephen P",comp,M,P01,3,3 to 4,3,4,4,0.75,5,4,P01
+215,nih_1867974,MULT,MULT,NA,NA,,NA,1,1 to 2,1,3,3,0.333333333,1,1,NA
+216,nih_1868056,MULT,MULT,"Berger, James M",comp,M,R01,2,1 to 2,2,4,4,0.5,2,2,R01
+217,nih_1868094,IMMU,IMMU,"Arnold, Edward",comp,M,R37,1,1 to 2,1,1,1,1,5,4,R
+218,nih_1868148,BIOC,BIOC,"Cafiso, David S",study,M,P01,2,1 to 2,2,3,3,0.666666667,4,3,P01
+219,nih_1868354,PHAR,PHAR,"Nigam, Sanjay K",comp,M,P01,3,3 to 4,3,14,8+,0.214285714,1,1,P01
+220,nih_1868553,CHEM,CHEM,"Karlin, Kenneth D",study,M,R01,2,1 to 2,2,3,3,0.666666667,4,3,R01
+221,nih_1868561,PHAR,PHAR,"Spiegel, Sarah",comp,F,U19,3,3 to 4,3,5,5,0.6,4,3,U
+222,nih_1868679,AGRI,AGRI,"Mello, Craig C",study,M,P41,4,3 to 4,4,5,5,0.8,5,4,P41
+223,nih_1868703,AGRI,AGRI,"Ostap, E M",study,M,P01,2,1 to 2,2,3,3,0.666666667,4,3,P01
+224,nih_1868708,IMMU,IMMU,"Atchison, Michael L",study,M,R01,1,1 to 2,1,6,6,0.166666667,1,1,R01
+225,nih_1868889,IMMU,IMMU,"Tracey, Kevin J",study,M,M01,3,3 to 4,3,6,6,0.5,2,2,M
+226,nih_1868897,CHEM,CHEM,"Beal, Peter A",study,M,R21,2,1 to 2,2,5,5,0.4,2,1,R
+227,nih_1868899,CENG,CENG,"Schrock, Richard R",study,M,R01,2,1 to 2,2,4,4,0.5,2,2,R01
+228,nih_1868923,PHAR,PHAR,"Khosla, Chaitan",comp,M,R01,3,3 to 4,3,9,8+,0.333333333,1,1,R01
+229,nih_1868925,MULT,MULT,"Dynlacht, Brian D",comp,M,P30,3,3 to 4,3,5,5,0.6,4,3,P
+230,nih_1869025,MULT,MULT,"Devreotes, Peter N",study,M,R37,2,1 to 2,2,4,4,0.5,2,2,R
+231,nih_1869040,BIOC,BIOC,"Holden, Hazel",comp,F,R01,2,1 to 2,2,2,2,1,5,4,R01
+232,nih_1869058,PHAR,PHAR,"Hannun, Yusuf A",study,M,P30,4,3 to 4,4,9,8+,0.444444444,2,2,P
+233,nih_1869149,BIOC,BIOC,"Montell, Denise J",study,F,U54,2,1 to 2,2,3,3,0.666666667,4,3,U
+234,nih_1869345,AGRI,AGRI,"Greenstein, David I",study,M,R56,3,3 to 4,3,4,4,0.75,5,4,R
+235,nih_1869355,BIOC,BIOC,"Klionsky, Daniel J",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+236,nih_1869983,IMMU,IMMU,"Lieberman, Paul M",comp,M,P30,5,5+,5+,10,8+,0.5,2,2,P
+237,nih_1869991,BIOC,BIOC,"Aggarwal, Aneel K",comp,M,P41,2,1 to 2,2,8,8+,0.25,1,1,P41
+238,nih_1869994,MULT,MULT,"Gautam, Narasimhan",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+239,nih_1869995,AGRI,AGRI,"Rine, Jasper D",study,M,P41,4,3 to 4,4,6,6,0.666666667,4,3,P41
+240,nih_1870096,NEUR,NEUR,"Hajnoczky, Gyorgy",comp,M,RC2,2,1 to 2,2,4,4,0.5,2,2,RC
+241,nih_1870363,MEDI,MEDI,"Song, Wenchao",comp,M,R01,2,1 to 2,2,5,5,0.4,2,1,R01
+242,nih_1870433,PHAR,PHAR,"Miller, Keith W",study,M,P41,4,3 to 4,4,4,4,1,5,4,P41
+243,nih_1870546,CENG,CENG,"Ealick, Steven E",comp,M,P41,4,3 to 4,4,8,8+,0.5,2,2,P41
+244,nih_1870560,IMMU,IMMU,"Swanstrom, Ronald I",comp,M,M01,6,5+,5+,15,8+,0.4,2,1,M
+245,nih_1870596,IMMU,IMMU,"Cameron, Craig E",comp,M,U01,4,3 to 4,4,6,6,0.666666667,4,3,U
+246,nih_1870653,AGRI,AGRI,"Johnson, Stephen L",study,M,P01,4,3 to 4,4,7,7,0.571428571,4,3,P01
+247,nih_1870807,PHAR,PHAR,"Freire, Ernesto",study,M,P01,2,1 to 2,2,2,2,1,5,4,P01
+248,nih_1870842,IMMU,IMMU,"Silhavy, Thomas J",study,M,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+249,nih_1870853,MULT,MULT,"Stamler, Jonathan S",comp,M,P01,4,3 to 4,4,11,8+,0.363636364,1,1,P01
+250,nih_1870861,MEDI,MEDI,"Karagas, Margaret R",comp,F,P42,6,5+,5+,9,8+,0.666666667,4,3,P
+251,nih_1870864,BIOC,BIOC,"Reed, Steven I",comp,M,P41,4,3 to 4,4,7,7,0.571428571,4,3,P41
+252,nih_1871016,AGRI,AGRI,"Merrill, Alfred H",study,M,U54,4,3 to 4,4,5,5,0.8,5,4,U
+253,nih_1871080,CENG,CENG,"Egli, Martin",study,M,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+254,nih_1871261,AGRI,AGRI,"Harland, Richard M",study,M,R01,2,1 to 2,2,8,8+,0.25,1,1,R01
+255,nih_1871272,AGRI,AGRI,"Sternberg, Paul W",comp,M,U41,4,3 to 4,4,7,7,0.571428571,4,3,U
+256,nih_1871621,MULT,MULT,"Botstein, David",study,M,P01,3,3 to 4,3,5,5,0.6,4,3,P01
+257,nih_1871634,PHAR,PHAR,"Glazer, Peter M",comp,M,P30,3,3 to 4,3,13,8+,0.230769231,1,1,P
+258,nih_1871777,PHAR,PHAR,"Chang, Mayland F",study,F,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+259,nih_1871846,IMMU,IMMU,"Cohen, Fredric S",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+260,nih_1871873,MULT,MULT,"Gennis, Robert B",comp,M,P41,3,3 to 4,3,4,4,0.75,5,4,P41
+261,nih_1871898,CENG,CENG,"Hoffman, Brian M",comp,M,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+262,nih_1872151,CENG,CENG,"Wickline, Samuel A",comp,M,U54,5,5+,5+,14,8+,0.357142857,1,1,U
+263,nih_1872191,PHAR,PHAR,"Smrcka, Alan V",study,M,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+264,nih_1872624,IMMU,IMMU,"Carroll, Michael C",comp,M,P01,4,3 to 4,4,8,8+,0.5,2,2,P01
+265,nih_1872879,IMMU,IMMU,"Wood, Charles",comp,M,P20,6,5+,5+,11,8+,0.545454545,3,3,P
+266,nih_1872937,BIOC,BIOC,"Piper, Robert C",study,M,R21,2,1 to 2,2,3,3,0.666666667,4,3,R
+267,nih_1872999,AGRI,AGRI,"Ghosh, Gourisankar",comp,M,P01,2,1 to 2,2,7,7,0.285714286,1,1,P01
+268,nih_1873251,MEDI,MEDI,"Markwald, Roger R",comp,M,P20,4,3 to 4,4,7,7,0.571428571,4,3,P
+269,nih_1873519,CHEM,CHEM,"Rosenzweig, Amy C",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+270,nih_1873581,MULT,MULT,"Nunnari, Jodi M",study,M,R37,3,3 to 4,3,6,6,0.5,2,2,R
+271,nih_1874203,NEUR,NEUR,"Sanna, Pietro P",comp,M,P50,6,5+,5+,14,8+,0.428571429,2,2,P
+272,nih_1875180,MULT,MULT,"Liu, Yi",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+273,nih_1876102,AGRI,AGRI,"Schultz, Richard M",comp,M,U01,5,5+,5+,10,8+,0.5,2,2,U
+274,nih_1876106,MULT,MULT,"Stark, George R",comp,M,P01,2,1 to 2,2,3,3,0.666666667,4,3,P01
+275,nih_1876117,IMMU,IMMU,"Ruby, Edward G",comp,M,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+276,nih_1876138,AGRI,AGRI,"Reinitz, John B",comp,M,P50,3,3 to 4,3,4,4,0.75,5,4,P
+277,nih_1876206,NEUR,NEUR,"Reh, Thomas A",comp,M,P01,2,1 to 2,2,5,5,0.4,2,1,P01
+278,nih_1876339,NEUR,NEUR,"Tsien, Richard W",comp,M,R56,3,3 to 4,3,8,8+,0.375,2,1,R
+279,nih_1876407,PHAR,PHAR,"Sullenger, Bruce A",comp,M,U19,5,5+,5+,7,7,0.714285714,5,4,U
+280,nih_1876487,AGRI,AGRI,"Chakravarti, Aravinda",comp,M,R01,5,5+,5+,9,8+,0.555555556,3,3,R01
+281,nih_1876555,IMMU,IMMU,"Henson, Peter M",comp,M,P50,3,3 to 4,3,10,8+,0.3,1,1,P
+282,nih_1876686,MEDI,MEDI,"Murry, Charles E",comp,M,P01,4,3 to 4,4,7,7,0.571428571,4,3,P01
+283,nih_1876731,AGRI,AGRI,"Kay, Steve A",study,M,RC2,3,3 to 4,3,6,6,0.5,2,2,RC
+284,nih_1876792,AGRI,AGRI,"Levin, David E",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+285,nih_1876807,MEDI,MEDI,"Thompson, Elizabeth",study,F,R37,2,1 to 2,2,2,2,1,5,4,R
+286,nih_1876808,NEUR,NEUR,"Goldberg, Alfred L",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+287,nih_1876836,AGRI,AGRI,"Lambowitz, Alan M",study,M,R37,2,1 to 2,2,4,4,0.5,2,2,R
+288,nih_1876857,AGRI,AGRI,"Stormo, Gary D",comp,M,U01,3,3 to 4,3,5,5,0.6,4,3,U
+289,nih_1876861,MULT,MULT,"Pollard, Thomas D",study,M,P01,3,3 to 4,3,4,4,0.75,5,4,P01
+290,nih_1876869,AGRI,AGRI,"Firtel, Richard A",study,M,P01,3,3 to 4,3,7,7,0.428571429,2,2,P01
+291,nih_1876977,CHEM,CHEM,"Petering, David H",comp,M,P30,3,3 to 4,3,4,4,0.75,5,4,P
+292,nih_1877201,MEDI,MEDI,"Wu, Gary D",comp,M,UH2,4,3 to 4,4,7,7,0.571428571,4,3,UH
+293,nih_1877243,MEDI,MEDI,"Cleveland, John L",comp,M,R01,1,1 to 2,1,6,6,0.166666667,1,1,R01
+294,nih_1877275,CENG,CENG,"Solomon, Edward I",study,M,P41,3,3 to 4,3,4,4,0.75,5,4,P41
+295,nih_1877450,NEUR,NEUR,"Edwards, Robert H",comp,M,U01,5,5+,5+,8,8+,0.625,4,3,U
+296,nih_1877638,PHAR,PHAR,"Fenical, William",comp,M,P01,4,3 to 4,4,7,7,0.571428571,4,3,P01
+297,nih_1877790,AGRI,AGRI,"Vergara, Julio L",comp,M,R56,3,3 to 4,3,7,7,0.428571429,2,2,R
+298,nih_1877799,IMMU,IMMU,"James, Judith A",comp,F,U19,9,5+,5+,14,8+,0.642857143,4,3,U
+299,nih_1877831,IMMU,IMMU,"Cooper, Max D",comp,M,U19,3,3 to 4,3,5,5,0.6,4,3,U
+300,nih_1877883,IMMU,IMMU,"Greene, Warner C",comp,M,U19,6,5+,5+,13,8+,0.461538462,2,2,U
+301,nih_1877944,IMMU,IMMU,"Gross, Carol",study,F,R37,2,1 to 2,2,5,5,0.4,2,1,R
+302,nih_1878085,PHAR,PHAR,"Cooperman, Barry S",study,M,R01,1,1 to 2,1,5,5,0.2,1,1,R01
+303,nih_1878171,NULL.,OTHER,"Harris, Robert A",comp,M,P01,1,1 to 2,1,1,1,1,5,4,P01
+304,nih_1878564,MEDI,MEDI,"Freeze, Hudson H",comp,M,P41,4,3 to 4,4,10,8+,0.4,2,1,P41
+305,nih_1878566,IMMU,IMMU,"Moldawer, Lyle L",study,M,U54,5,5+,5+,11,8+,0.454545455,2,2,U
+306,nih_1878576,NEUR,NEUR,"Montell, Craig",comp,M,DP1,3,3 to 4,3,6,6,0.5,2,2,DP
+307,nih_1878612,PHAR,PHAR,"Devi, Lakshmi A",comp,F,P50,5,5+,5+,6,6,0.833333333,5,4,P
+308,nih_1878773,MULT,MULT,"Glass, Christopher K",comp,M,U54,7,5+,5+,13,8+,0.538461538,3,3,U
+309,nih_1878823,PHAR,PHAR,"Clardy, Jon",comp,M,P41,7,5+,5+,15,8+,0.466666667,2,2,P41
+310,nih_1878922,IMMU,IMMU,"Wilson, Ian A",comp,M,U54,7,5+,5+,21,8+,0.333333333,1,1,U
+311,nih_1879132,AGRI,AGRI,"Rothstein, Rodney J",study,M,R37,4,3 to 4,4,6,6,0.666666667,4,3,R
+312,nih_1879137,CENG,CENG,"Millar, David P",study,M,P50,3,3 to 4,3,4,4,0.75,5,4,P
+313,nih_1879138,IMMU,IMMU,"Chazin, Walter J",study,M,P30,5,5+,5+,11,8+,0.454545455,2,2,P
+314,nih_1879348,MEDI,MEDI,"Piston, David W",comp,M,U54,6,5+,5+,11,8+,0.545454545,3,3,U
+315,nih_1879377,NEUR,NEUR,"Schier, Alexander F",study,M,U01,3,3 to 4,3,11,8+,0.272727273,1,1,U
+316,nih_1879395,MULT,MULT,"Cerione, Richard A",study,M,P41,2,1 to 2,2,7,7,0.285714286,1,1,P41
+317,nih_1879397,BIOC,BIOC,"Sung, Patrick",comp,M,P01,2,1 to 2,2,11,8+,0.181818182,1,1,P01
+318,nih_1879411,CENG,CENG,"Yarmush, Martin L",comp,M,UH2,3,3 to 4,3,10,8+,0.3,1,1,UH
+319,nih_1879448,AGRI,AGRI,"Rothman, Joel H",comp,M,R01,2,1 to 2,2,10,8+,0.2,1,1,R01
+320,nih_1879476,MULT,MULT,"Cantley, Lewis C",study,M,P41,4,3 to 4,4,8,8+,0.5,2,2,P41
+321,nih_1879567,IMMU,IMMU,"Walker, Graham C",study,M,R01,2,1 to 2,2,4,4,0.5,2,2,R01
+322,nih_1879587,MULT,MULT,"Varshavsky, Alexander J",study,M,R37,3,3 to 4,3,5,5,0.6,4,3,R
+323,nih_1879843,IMMU,IMMU,"Kolter, Roberto G",study,M,P01,2,1 to 2,2,3,3,0.666666667,4,3,P01
+324,nih_1879845,CENG,CENG,"Kool, Eric T",study,M,R01,2,1 to 2,2,11,8+,0.181818182,1,1,R01
+325,nih_1879853,CENG,CENG,"Jacobsen, Eric N",study,M,P50,3,3 to 4,3,4,4,0.75,5,4,P
+326,nih_1879891,IMMU,IMMU,"Milligan, Ronald A",study,M,P41,3,3 to 4,3,5,5,0.6,4,3,P41
+327,nih_1880263,NEUR,NEUR,"Singer, Robert H",study,M,P20,4,3 to 4,4,11,8+,0.363636364,1,1,P
+328,nih_1880266,PHAR,PHAR,"Anderson, Karen S",study,F,R01,3,3 to 4,3,8,8+,0.375,2,1,R01
+329,nih_1880314,AGRI,AGRI,"Quail, Peter H",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+330,nih_1880322,IMMU,IMMU,"Bauer, Carl E",study,M,P41,3,3 to 4,3,6,6,0.5,2,2,P41
+331,nih_1880324,BIOC,BIOC,"West, Christopher M",study,M,R01,2,1 to 2,2,3,3,0.666666667,4,3,R01
+332,nih_1880327,IMMU,IMMU,"Belasco, Joel G",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+333,nih_1880328,MULT,MULT,"Levine, Michael S",study,M,P01,5,5+,5+,7,7,0.714285714,5,4,P01
+334,nih_1880397,MULT,MULT,"Smith, Janet L",comp,F,R01,2,1 to 2,2,5,5,0.4,2,1,R01
+335,nih_1880416,AGRI,AGRI,"Quaranta, Vito",comp,M,U54,4,3 to 4,4,8,8+,0.5,2,2,U
+336,nih_1880450,AGRI,AGRI,"Obeid, Lina M",comp,F,P20,4,3 to 4,4,6,6,0.666666667,4,3,P
+337,nih_1880539,IMMU,IMMU,"Salomon, Daniel R",comp,M,M01,7,5+,5+,11,8+,0.636363636,4,3,M
+338,nih_1880550,IMMU,IMMU,"Havran, Wendy L",comp,F,R01,2,1 to 2,2,8,8+,0.25,1,1,R01
+339,nih_1880571,MEDI,MEDI,"Timchenko, Nikolai A",comp,M,R01,3,3 to 4,3,8,8+,0.375,2,1,R01
+340,nih_1880714,AGRI,AGRI,"Li, Rong",study,F,P01,3,3 to 4,3,4,4,0.75,5,4,P01
+341,nih_1880722,BIOC,BIOC,"Lutsenko, Svetlana",comp,F,P01,4,3 to 4,4,6,6,0.666666667,4,3,P01
+342,nih_1880733,CHEM,CHEM,"Molander, Gary A",study,M,P41,2,1 to 2,2,6,6,0.333333333,1,1,P41
+343,nih_1880734,BIOC,BIOC,"Bartholomew, Blaine",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+344,nih_1880892,PHYS,OTHER,"Derewenda, Zygmunt S",study,M,U54,3,3 to 4,3,6,6,0.5,2,2,U
+345,nih_1880940,MEDI,MEDI,"Burke, Wylie G",comp,M,P50,3,3 to 4,3,6,6,0.5,2,2,P
+346,nih_1880945,MULT,MULT,"Soll, Dieter G",study,M,P41,2,1 to 2,2,2,2,1,5,4,P41
+347,nih_1880956,IMMU,IMMU,"Christie, Peter J",study,M,R21,2,1 to 2,2,2,2,1,5,4,R
+348,nih_1880992,NEUR,NEUR,"Carlson, John R",comp,M,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+349,nih_1881003,IMMU,IMMU,"Huttenlocher, Anna",comp,F,P01,3,3 to 4,3,7,7,0.428571429,2,2,P01
+350,nih_1881159,PHAR,PHAR,"Murphy, Robert C",comp,M,U54,3,3 to 4,3,6,6,0.5,2,2,U
+351,nih_1881187,MEDI,MEDI,"Billiar, Timothy R",study,M,U01,4,3 to 4,4,6,6,0.666666667,4,3,U
+352,nih_1881208,CHEM,CHEM,"Opella, Stanley J",study,M,P01,4,3 to 4,4,12,8+,0.333333333,1,1,P01
+353,nih_1881249,PHAR,PHAR,"Torchilin, Vladimir P",comp,M,U54,3,3 to 4,3,9,8+,0.333333333,1,1,U
+354,nih_1881371,MEDI,MEDI,"Erle, David J",comp,M,P50,4,3 to 4,4,9,8+,0.444444444,2,2,P
+355,nih_1881391,MULT,MULT,"Block, Steven M",study,M,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+356,nih_1881411,PHAR,PHAR,"Janda, Kim",comp,M,R01,4,3 to 4,4,24,8+,0.166666667,1,1,R01
+357,nih_1881551,CENG,CENG,"Fu, Gregory C",study,M,R37,2,1 to 2,2,5,5,0.4,2,1,R
+358,nih_1881563,NEUR,NEUR,"Bassell, Gary J",comp,M,P30,3,3 to 4,3,17,8+,0.176470588,1,1,P
+359,nih_1881569,AGRI,AGRI,"Glick, Benjamin S",study,M,P30,2,1 to 2,2,5,5,0.4,2,1,P
+360,nih_1881574,AGRI,AGRI,"Weisman, Lois S",study,F,R37,2,1 to 2,2,4,4,0.5,2,2,R
+361,nih_1881575,CHEM,CHEM,"Ellman, Jonathan A",study,M,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+362,nih_1881578,PHAR,PHAR,"Benovic, Jeffrey L",study,M,P30,5,5+,5+,9,8+,0.555555556,3,3,P
+363,nih_1881584,MULT,MULT,"Taylor, Susan S",study,F,P50,5,5+,5+,6,6,0.833333333,5,4,P
+364,nih_1881721,MEDI,MEDI,"Roden, Dan M",comp,M,RC2,7,5+,5+,11,8+,0.636363636,4,3,RC
+365,nih_1881727,CHEM,CHEM,"Allbritton, Nancy L",comp,F,P41,4,3 to 4,4,15,8+,0.266666667,1,1,P41
+366,nih_1881728,CENG,CENG,"Montgomery, John",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+367,nih_1881747,PHAR,PHAR,"Christianson, David W",study,M,P41,2,1 to 2,2,6,6,0.333333333,1,1,P41
+368,nih_1881790,MEDI,MEDI,"Amos, Christopher I",comp,M,U19,6,5+,5+,11,8+,0.545454545,3,3,U
+369,nih_1881847,NEUR,NEUR,"Opp, Mark R",comp,M,P01,3,3 to 4,3,5,5,0.6,4,3,P01
+370,nih_1881995,MULT,MULT,"Davis, Ronald W",study,M,P01,8,5+,5+,18,8+,0.444444444,2,2,P01
+371,nih_1882056,AGRI,AGRI,"Chernoff, Jonathan D",comp,M,R01,1,1 to 2,1,5,5,0.2,1,1,R01
+372,nih_1882154,PHAR,PHAR,"Szoka, Francis C",comp,M,R01,2,1 to 2,2,8,8+,0.25,1,1,R01
+373,nih_1882172,IMMU,IMMU,"Hedrick, Stephen M",comp,M,P01,6,5+,5+,10,8+,0.6,4,3,P01
+374,nih_1882273,MULT,MULT,"Kobilka, Brian K",comp,M,R01,4,3 to 4,4,9,8+,0.444444444,2,2,R01
+375,nih_1882305,MULT,MULT,"Sosnick, Tobin R",study,M,P41,2,1 to 2,2,5,5,0.4,2,1,P41
+376,nih_1882493,NEUR,NEUR,"Jorgensen, Erik M",comp,M,R37,2,1 to 2,2,4,4,0.5,2,2,R
+377,nih_1882554,CENG,CENG,"Blackburn, Ninian J",study,M,P41,3,3 to 4,3,4,4,0.75,5,4,P41
+378,nih_1882754,IMMU,IMMU,"Zack, Jerome A",comp,M,U19,5,5+,5+,9,8+,0.555555556,3,3,U
+379,nih_1883000,AGRI,AGRI,"Kopan, Raphael",comp,M,U19,5,5+,5+,10,8+,0.5,2,2,U
+380,nih_1883011,MULT,MULT,"Perozo, Eduardo A",study,M,P41,3,3 to 4,3,5,5,0.6,4,3,P41
+381,nih_1883014,CENG,CENG,"Degrado, William F",study,M,U01,5,5+,5+,9,8+,0.555555556,3,3,U
+382,nih_1883015,CHEM,CHEM,"Carr, Peter W",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+383,nih_1883034,MULT,MULT,"Marqusee, Susan",study,F,P01,2,1 to 2,2,2,2,1,5,4,P01
+384,nih_1883035,NULL.,OTHER,"Lange, Kenneth L",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+385,nih_1883046,MULT,MULT,"Wu, Dianqing",comp,M,P01,4,3 to 4,4,13,8+,0.307692308,1,1,P01
+386,nih_1883048,AGRI,AGRI,"Zarkower, David A",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+387,nih_1883051,AGRI,AGRI,"Alani, Eric E",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+388,nih_1883055,MULT,MULT,"Cobb, Melanie H",comp,F,P30,3,3 to 4,3,6,6,0.5,2,2,P
+389,nih_1883058,MULT,MULT,"Pan, Tao",study,M,DP1,4,3 to 4,4,8,8+,0.5,2,2,DP
+390,nih_1883061,CENG,CENG,"Romo, Daniel",study,M,R37,2,1 to 2,2,5,5,0.4,2,1,R
+391,nih_1883071,IMMU,IMMU,"Babitzke, Paul L",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+392,nih_1883072,IMMU,IMMU,"Krulwich, Terry A",study,M,P50,2,1 to 2,2,4,4,0.5,2,2,P
+393,nih_1883074,MULT,MULT,"Maquat, Lynne E",study,F,P41,3,3 to 4,3,5,5,0.6,4,3,P41
+394,nih_1883077,BIOC,BIOC,"Cho, Wonhwa",study,M,P41,2,1 to 2,2,6,6,0.333333333,1,1,P41
+395,nih_1883078,CENG,CENG,"Gerlt, John A",study,M,U54,4,3 to 4,4,6,6,0.666666667,4,3,U
+396,nih_1883079,NEUR,NEUR,"Hagerman, Paul J",comp,M,RL1,5,5+,5+,9,8+,0.555555556,3,3,RL
+397,nih_1883088,AGRI,AGRI,"Stearns, Tim",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+398,nih_1883094,IMMU,IMMU,"Lovett, Susan T",study,F,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+399,nih_1883110,BIOC,BIOC,"Stuehr, Dennis J",comp,M,P01,3,3 to 4,3,6,6,0.5,2,2,P01
+400,nih_1883114,AGRI,AGRI,"Sorger, Peter K",comp,M,U54,5,5+,5+,11,8+,0.454545455,2,2,U
+401,nih_1883128,AGRI,AGRI,"Bartolomei, Marisa S",study,F,U54,4,3 to 4,4,8,8+,0.5,2,2,U
+402,nih_1883133,BIOC,BIOC,"Dent, Sharon R",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+403,nih_1883140,CENG,CENG,"Daggett, Valerie D",study,F,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+404,nih_1883155,MULT,MULT,"Kornberg, Roger D",study,M,P41,3,3 to 4,3,6,6,0.5,2,2,P41
+405,nih_1883188,NEUR,NEUR,"Eisenach, James C",study,M,M01,4,3 to 4,4,6,6,0.666666667,4,3,M
+406,nih_1883189,NEUR,NEUR,"Parker, Ian",study,M,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+407,nih_1883195,AGRI,AGRI,"Peifer, Mark A",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+408,nih_1883204,CHEM,CHEM,"Tolman, William B",study,M,R37,2,1 to 2,2,2,2,1,5,4,R
+409,nih_1883210,AGRI,AGRI,"Disteche, Christine M",study,F,U54,2,1 to 2,2,5,5,0.4,2,1,U
+410,nih_1883212,AGRI,AGRI,"Ferrell, James E",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+411,nih_1883228,MEDI,MEDI,"Hotchkiss, Richard S",study,M,R37,3,3 to 4,3,6,6,0.5,2,2,R
+412,nih_1883235,CHEM,CHEM,"Schramm, Vern L",study,M,P01,4,3 to 4,4,8,8+,0.5,2,2,P01
+413,nih_1883238,IMMU,IMMU,"Krangel, Michael S",study,M,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+414,nih_1883241,PHYS,OTHER,"Terwilliger, Thomas C",study,M,U54,3,3 to 4,3,4,4,0.75,5,4,U
+415,nih_1883246,AGRI,AGRI,"Johnson, Alexander D",comp,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+416,nih_1883247,BIOC,BIOC,"Goldman, Robert D",study,M,R37,3,3 to 4,3,8,8+,0.375,2,1,R
+417,nih_1883254,NULL.,OTHER,"Lakowicz, Joseph R",comp,M,P41,4,3 to 4,4,9,8+,0.444444444,2,2,P41
+418,nih_1883260,BIOC,BIOC,"Burgers, Peter M",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+419,nih_1883264,PHAR,PHAR,"Johnson, Eric F",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+420,nih_1883268,CHEM,CHEM,"Levy, Ronald",study,M,M01,4,3 to 4,4,5,5,0.8,5,4,M
+421,nih_1883277,CENG,CENG,"Boxer, Steven G",study,M,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+422,nih_1883278,BIOC,BIOC,"Thorpe, Colin",study,M,R01,2,1 to 2,2,2,2,1,5,4,R01
+423,nih_1883283,AGRI,AGRI,"Petes, Thomas D",study,M,RC1,2,1 to 2,2,3,3,0.666666667,4,3,RC
+424,nih_1883522,MEDI,MEDI,"Shuldiner, Alan R",comp,M,M01,5,5+,5+,13,8+,0.384615385,2,1,M
+425,nih_1883586,IMMU,IMMU,"Smale, Stephen T",comp,M,P30,5,5+,5+,9,8+,0.555555556,3,3,P
+426,nih_1883755,NEUR,NEUR,"Smith, Dean P",comp,M,R01,2,1 to 2,2,4,4,0.5,2,2,R01
+427,nih_1884018,MULT,MULT,"Stillman, Bruce W",study,M,P01,3,3 to 4,3,3,3,1,5,4,P01
+428,nih_1884048,CHEM,CHEM,"Raines, Ronald T",comp,M,P41,2,1 to 2,2,4,4,0.5,2,2,P41
+429,nih_1884066,MULT,MULT,"Warshaw, David M",comp,M,P01,2,1 to 2,2,7,7,0.285714286,1,1,P01
+430,nih_1884132,IMMU,IMMU,"Ploegh, Hidde L",comp,M,P41,6,5+,5+,14,8+,0.428571429,2,2,P41
+431,nih_1884148,IMMU,IMMU,"Boothby, Mark R",comp,M,R01,2,1 to 2,2,9,8+,0.222222222,1,1,R01
+432,nih_1884338,NEUR,NEUR,"Homanics, Gregg E",comp,M,P01,4,3 to 4,4,7,7,0.571428571,4,3,P01
+433,nih_1884429,PHAR,PHAR,"Nagarkatti, Prakash S",comp,M,P01,3,3 to 4,3,6,6,0.5,2,2,P01
+434,nih_1884510,NEUR,NEUR,"Kaplan, Joshua M",comp,M,R37,2,1 to 2,2,4,4,0.5,2,2,R
+435,nih_1884558,AGRI,AGRI,"Petrini, John H",study,M,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+436,nih_1884566,PHAR,PHAR,"Halpert, James R",comp,M,P30,3,3 to 4,3,4,4,0.75,5,4,P
+437,nih_1884576,PHYS,OTHER,"Jesteadt, Walt",comp,M,P30,3,3 to 4,3,5,5,0.6,4,3,P
+438,nih_1884664,MULT,MULT,"Blacklow, Stephen C",comp,M,P41,5,5+,5+,6,6,0.833333333,5,4,P41
+439,nih_1884668,MULT,MULT,"Kass, Robert S",comp,M,P01,2,1 to 2,2,6,6,0.333333333,1,1,P01
+440,nih_1884925,NEUR,NEUR,"Liu, Ke J",comp,M,P20,4,3 to 4,4,9,8+,0.444444444,2,2,P
+441,nih_1884985,AGRI,AGRI,"Eide, David J",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+442,nih_1885067,CENG,CENG,"Toner, Mehmet",comp,M,U01,4,3 to 4,4,8,8+,0.5,2,2,U
+443,nih_1885090,AGRI,AGRI,"Conklin, Bruce R",comp,M,P01,4,3 to 4,4,10,8+,0.4,2,1,P01
+444,nih_1885103,AGRI,AGRI,"Sheen, Jen",study,F,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+445,nih_1885108,AGRI,AGRI,"Chang, Fred",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+446,nih_1885109,PHAR,PHAR,"Stivers, James T",study,M,R01,2,1 to 2,2,3,3,0.666666667,4,3,R01
+447,nih_1885119,NEUR,NEUR,"Ellisman, Mark H",comp,M,P42,4,3 to 4,4,12,8+,0.333333333,1,1,P
+448,nih_1885134,MULT,MULT,"Daley, George Q",comp,M,RC4,5,5+,5+,9,8+,0.555555556,3,3,RC
+449,nih_1885223,PHAR,PHAR,"Bhatnagar, Aruni B",comp,M,P01,5,5+,5+,10,8+,0.5,2,2,P01
+450,nih_1885232,AGRI,AGRI,"Schimenti, John C",study,M,P01,3,3 to 4,3,5,5,0.6,4,3,P01
+451,nih_1885282,MULT,MULT,"Pellman, David S",study,M,R37,2,1 to 2,2,5,5,0.4,2,1,R
+452,nih_1885391,MULT,MULT,"Novick, Peter J",study,M,P41,4,3 to 4,4,6,6,0.666666667,4,3,P41
+453,nih_1885431,MEDI,MEDI,"Bushweller, John H",comp,M,P30,4,3 to 4,4,8,8+,0.5,2,2,P
+454,nih_1885647,CHEM,CHEM,"Sherman, David H",study,M,U54,4,3 to 4,4,10,8+,0.4,2,1,U
+455,nih_1885825,NEUR,NEUR,"Hall, Randy A",comp,M,R01,2,1 to 2,2,8,8+,0.25,1,1,R01
+456,nih_1885900,BIOC,BIOC,"Linstedt, Adam D",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+457,nih_1885915,PHAR,PHAR,NA,NA,,NA,3,3 to 4,3,7,7,0.428571429,2,2,NA
+458,nih_1886130,AGRI,AGRI,"Capel, Blanche",comp,F,R37,2,1 to 2,2,4,4,0.5,2,2,R
+459,nih_1886222,CHEM,CHEM,"Harris, Michael E",study,M,R01,2,1 to 2,2,3,3,0.666666667,4,3,R01
+460,nih_1886379,CENG,CENG,"Collum, David B",study,M,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+461,nih_1886400,PHAR,PHAR,"Dedon, Peter C",comp,M,P01,4,3 to 4,4,12,8+,0.333333333,1,1,P01
+462,nih_1886589,IMMU,IMMU,"Lambris, John D",comp,M,P01,2,1 to 2,2,11,8+,0.181818182,1,1,P01
+463,nih_1887015,NEUR,NEUR,"Deutsch, Carol J",study,F,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+464,nih_1887016,PHAR,PHAR,"Rana, Tariq M",comp,M,P30,6,5+,5+,12,8+,0.5,2,2,P
+465,nih_1887138,NEUR,NEUR,"Gusella, James F",comp,M,U54,6,5+,5+,11,8+,0.545454545,3,3,U
+466,nih_1887314,AGRI,AGRI,"Johnson, Carl H",study,M,M01,4,3 to 4,4,14,8+,0.285714286,1,1,M
+467,nih_1887344,MEDI,MEDI,"Ping, Peipei",comp,F,P01,5,5+,5+,12,8+,0.416666667,2,2,P01
+468,nih_1887427,IMMU,IMMU,"Voelker, Dennis R",study,M,M01,4,3 to 4,4,8,8+,0.5,2,2,M
+469,nih_1887597,AGRI,AGRI,"Sedivy, John M",comp,M,P51,6,5+,5+,8,8+,0.75,5,4,P
+470,nih_1887602,IMMU,IMMU,"Matthews, C R",study,M,M01,2,1 to 2,2,3,3,0.666666667,4,3,M
+471,nih_1887605,MEDI,MEDI,"Wells, Alan",study,M,R56,2,1 to 2,2,4,4,0.5,2,2,R
+472,nih_1887617,AGRI,AGRI,"Kellogg, Douglas R",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+473,nih_1887625,CENG,CENG,"Williamson, James R",study,M,P50,6,5+,5+,8,8+,0.75,5,4,P
+474,nih_1887659,NEUR,NEUR,"Holzbaur, Erika L",study,F,P01,3,3 to 4,3,6,6,0.5,2,2,P01
+475,nih_1887673,AGRI,AGRI,"Buratowski, Stephen",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+476,nih_1887684,BIOC,BIOC,"Dinardo, Stephen F",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+477,nih_1887689,NEUR,NEUR,"Akey, Christopher W",study,M,P41,2,1 to 2,2,4,4,0.5,2,2,P41
+478,nih_1887690,MULT,MULT,"Lewis, Richard S",study,M,R37,2,1 to 2,2,2,2,1,5,4,R
+479,nih_1887694,AGRI,AGRI,"Mackay, Trudy F",study,F,R01,3,3 to 4,3,8,8+,0.375,2,1,R01
+480,nih_1887698,IMMU,IMMU,"Belfort, Marlene",study,F,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+481,nih_1887701,MULT,MULT,"Elledge, Stephen J",study,M,U19,4,3 to 4,4,4,4,1,5,4,U
+482,nih_1887712,MULT,MULT,"Reed, Robin E",study,F,R56,2,1 to 2,2,2,2,1,5,4,R
+483,nih_1887713,AGRI,AGRI,"Cooley, Lynn",study,F,RC1,2,1 to 2,2,3,3,0.666666667,4,3,RC
+484,nih_1887720,AGRI,AGRI,"Drubin, David G",study,M,P41,3,3 to 4,3,6,6,0.5,2,2,P41
+485,nih_1887728,MULT,MULT,"Hahn, Steven M",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+486,nih_1887730,AGRI,AGRI,"Belmont, Andrew S",study,M,P41,2,1 to 2,2,4,4,0.5,2,2,P41
+487,nih_1887731,IMMU,IMMU,"Clark, Edward A",comp,M,P51,5,5+,5+,11,8+,0.454545455,2,2,P
+488,nih_1887735,BIOC,BIOC,"Schmid, Sandra L",study,F,R01,3,3 to 4,3,5,5,0.6,4,3,R01
+489,nih_1887738,IMMU,IMMU,"Belitsky, Boris R",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+490,nih_1887745,MULT,MULT,"Levitt, Michael",study,M,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+491,nih_1887760,MULT,MULT,"Wickner, William T",study,M,P41,2,1 to 2,2,2,2,1,5,4,P41
+492,nih_1887763,IMMU,IMMU,"Serhan, Charles N",study,M,P50,5,5+,5+,11,8+,0.454545455,2,2,P
+493,nih_1887786,IMMU,IMMU,"Gourse, Richard L",study,M,P41,3,3 to 4,3,3,3,1,5,4,P41
+494,nih_1887802,AGRI,AGRI,"Dunlap, Jay C",study,M,P01,4,3 to 4,4,5,5,0.8,5,4,P01
+495,nih_1887804,NEUR,NEUR,"Maxfield, Frederick R",comp,M,P01,4,3 to 4,4,8,8+,0.5,2,2,P01
+496,nih_1887805,MULT,MULT,"Marians, Kenneth J",study,M,P30,3,3 to 4,3,4,4,0.75,5,4,P
+497,nih_1887823,MULT,MULT,"Bustamante, Carlos J",study,M,R01,2,1 to 2,2,3,3,0.666666667,4,3,R01
+498,nih_1887827,AGRI,AGRI,"Cox, Michael M",study,M,U01,3,3 to 4,3,5,5,0.6,4,3,U
+499,nih_1887845,BIOC,BIOC,"Marzluff, William F",study,M,R01,2,1 to 2,2,4,4,0.5,2,2,R01
+500,nih_1887862,IMMU,IMMU,"Cook, James A",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+501,nih_1887937,AGRI,AGRI,"Maas, Richard L",comp,M,P01,6,5+,5+,11,8+,0.545454545,3,3,P01
+502,nih_1887989,NEUR,NEUR,"Bazan, Nicolas G",comp,M,P20,4,3 to 4,4,7,7,0.571428571,4,3,P
+503,nih_1888135,BIOC,BIOC,"Kopito, Ron R",comp,M,R56,2,1 to 2,2,4,4,0.5,2,2,R
+504,nih_1888209,MULT,MULT,"Dixon, Jack E",comp,M,R37,3,3 to 4,3,6,6,0.5,2,2,R
+505,nih_1888259,AGRI,AGRI,"Avruch, Joseph",comp,M,R37,3,3 to 4,3,4,4,0.75,5,4,R
+506,nih_1888597,MULT,MULT,"Struhl, Kevin",study,M,R01,2,1 to 2,2,4,4,0.5,2,2,R01
+507,nih_1888635,NEUR,NEUR,"Mivechi, Nahid F",comp,M,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+508,nih_1888671,NEUR,NEUR,"Cooper, Jonathan A",comp,M,R37,4,3 to 4,4,8,8+,0.5,2,2,R
+509,nih_1888698,MEDI,MEDI,"Emanuel, Beverly S",comp,F,P50,6,5+,5+,9,8+,0.666666667,4,3,P
+510,nih_1888832,IMMU,IMMU,"Sharpe, Arlene H",comp,F,P01,4,3 to 4,4,11,8+,0.363636364,1,1,P01
+511,nih_1888968,IMMU,IMMU,"Traktman, Paula",comp,F,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+512,nih_1889158,NEUR,NEUR,"Olsen, Richard W",comp,M,P01,3,3 to 4,3,6,6,0.5,2,2,P01
+513,nih_1889274,MEDI,MEDI,"Herndon, David N",study,M,M01,3,3 to 4,3,3,3,1,5,4,M
+514,nih_1889808,BIOC,BIOC,"Denu, John M",study,M,P41,3,3 to 4,3,5,5,0.6,4,3,P41
+515,nih_1889809,AGRI,AGRI,"Bardwell, Lee S",study,M,P50,2,1 to 2,2,2,2,1,5,4,P
+516,nih_1889950,AGRI,AGRI,"Smith, Gerald R",study,M,R56,3,3 to 4,3,4,4,0.75,5,4,R
+517,nih_1890226,IMMU,IMMU,"Rao, Anjana",comp,F,RC4,9,5+,5+,22,8+,0.409090909,2,2,RC
+518,nih_1890742,CENG,CENG,"Woodson, Sarah A",study,F,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+519,nih_1890744,NEUR,NEUR,"Young, Michael W",study,M,R01,2,1 to 2,2,4,4,0.5,2,2,R01
+520,nih_1890767,IMMU,IMMU,"Verdin, Eric M",comp,M,U19,5,5+,5+,7,7,0.714285714,5,4,U
+521,nih_1890979,NEUR,NEUR,"Taghert, Paul H",comp,M,P30,2,1 to 2,2,4,4,0.5,2,2,P
+522,nih_1891111,AGRI,AGRI,"Sachs, Frederick",comp,M,R01,2,1 to 2,2,3,3,0.666666667,4,3,R01
+523,nih_1891116,AGRI,AGRI,"Fox, Paul L",comp,M,P01,3,3 to 4,3,7,7,0.428571429,2,2,P01
+524,nih_1891230,MEDI,MEDI,"Morton, Cynthia C",comp,F,P30,3,3 to 4,3,6,6,0.5,2,2,P
+525,nih_1891234,BIOC,BIOC,"Sali, Andrej",study,M,U54,5,5+,5+,12,8+,0.416666667,2,2,U
+526,nih_1891259,CHEM,CHEM,"Klinman, Judith P",study,F,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+527,nih_1891266,CENG,CENG,"Trost, Barry M",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+528,nih_1891526,PHAR,PHAR,"Mitchell, Beverly S",comp,F,M01,3,3 to 4,3,4,4,0.75,5,4,M
+529,nih_1891684,IMMU,IMMU,"Engelman, Alan N",comp,M,R37,4,3 to 4,4,8,8+,0.5,2,2,R
+530,nih_1891687,IMMU,IMMU,"Jardetzky, Theodore S",comp,M,U54,5,5+,5+,8,8+,0.625,4,3,U
+531,nih_1891728,IMMU,IMMU,"Emerman, Michael",comp,M,R37,2,1 to 2,2,5,5,0.4,2,1,R
+532,nih_1891737,IMMU,IMMU,"Elder, John H",comp,M,P30,6,5+,5+,10,8+,0.6,4,3,P
+533,nih_1892179,CHEM,CHEM,"Voth, Gregory A",study,M,P50,2,1 to 2,2,3,3,0.666666667,4,3,P
+534,nih_1892568,CHEM,CHEM,"Olson, Arthur J",study,M,P01,5,5+,5+,7,7,0.714285714,5,4,P01
+535,nih_1892987,MULT,MULT,"Landick, Robert",study,M,R01,2,1 to 2,2,3,3,0.666666667,4,3,R01
+536,nih_1893214,MULT,MULT,"Bier, Ethan",comp,M,P41,4,3 to 4,4,8,8+,0.5,2,2,P41
+537,nih_1893416,NEUR,NEUR,"Zorumski, Charles F",comp,M,P30,3,3 to 4,3,8,8+,0.375,2,1,P
+538,nih_1893611,IMMU,IMMU,"Green, Jonathan M",comp,M,U19,3,3 to 4,3,6,6,0.5,2,2,U
+539,nih_1893645,MULT,MULT,"Rapoport, Tom A",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+540,nih_1893646,CENG,CENG,"Raleigh, Daniel P",study,M,P41,2,1 to 2,2,4,4,0.5,2,2,P41
+541,nih_1893649,MEDI,MEDI,"Leof, Edward B",study,M,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+542,nih_1893656,AGRI,AGRI,"Gilbert, Susan P",study,F,R37,2,1 to 2,2,2,2,1,5,4,R
+543,nih_1893657,NEUR,NEUR,"Sherman, Michael Y",comp,M,P41,3,3 to 4,3,7,7,0.428571429,2,2,P41
+544,nih_1893664,CHEM,CHEM,"Gilson, Michael K",study,M,P01,3,3 to 4,3,5,5,0.6,4,3,P01
+545,nih_1893671,NEUR,NEUR,"Wu, Jane Y",comp,F,R56,2,1 to 2,2,8,8+,0.25,1,1,R
+546,nih_1893677,MULT,MULT,"Otwinowski, Zbyszek",study,M,U54,2,1 to 2,2,3,3,0.666666667,4,3,U
+547,nih_1893684,MULT,MULT,"Gumbiner, Barry M",study,M,R37,2,1 to 2,2,4,4,0.5,2,2,R
+548,nih_1893686,BIOC,BIOC,"Arndt, Karen M",study,F,R01,2,1 to 2,2,2,2,1,5,4,R01
+549,nih_1893689,BIOC,BIOC,"Barlowe, Charles K",study,M,R37,2,1 to 2,2,2,2,1,5,4,R
+550,nih_1893697,MULT,MULT,"Deshaies, Raymond J",study,M,P41,3,3 to 4,3,6,6,0.5,2,2,P41
+551,nih_1893704,AGRI,AGRI,"Chory, Joanne",study,F,P41,3,3 to 4,3,5,5,0.6,4,3,P41
+552,nih_1893710,NEUR,NEUR,"Bell, Stephen P",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+553,nih_1893719,NEUR,NEUR,"Ehrlich, Barbara E",comp,F,P01,3,3 to 4,3,5,5,0.6,4,3,P01
+554,nih_1893740,MULT,MULT,"Rees, Douglas C",study,M,P41,5,5+,5+,6,6,0.833333333,5,4,P41
+555,nih_1893745,IMMU,IMMU,"Derbyshire, Keith M",comp,M,R56,3,3 to 4,3,6,6,0.5,2,2,R
+556,nih_1893753,IMMU,IMMU,"Imlay, James A",study,M,R37,2,1 to 2,2,4,4,0.5,2,2,R
+557,nih_1893769,IMMU,IMMU,"Helmann, John D",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+558,nih_1893773,BIOC,BIOC,"Fitzpatrick, Paul F",study,M,P41,2,1 to 2,2,4,4,0.5,2,2,P41
+559,nih_1893780,CHEM,CHEM,"Weber, Stephen G",study,M,R21,2,1 to 2,2,4,4,0.5,2,2,R
+560,nih_1893782,AGRI,AGRI,"Ruvkun, Gary B",study,M,R37,2,1 to 2,2,6,6,0.333333333,1,1,R
+561,nih_1893784,MULT,MULT,NA,NA,,NA,2,1 to 2,2,4,4,0.5,2,2,NA
+562,nih_1893802,CHEM,CHEM,"York, Darrin M",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+563,nih_1893807,MULT,MULT,"Noller, Harry F",study,M,P41,2,1 to 2,2,3,3,0.666666667,4,3,P41
+564,nih_1893922,CHEM,CHEM,"Kelly, Jeffery W",comp,M,P01,3,3 to 4,3,11,8+,0.272727273,1,1,P01
+565,nih_1893932,BIOC,BIOC,"Subramani, Suresh",comp,M,R37,3,3 to 4,3,5,5,0.6,4,3,R
+566,nih_1893935,MEDI,MEDI,"Sanders, Kenton M",comp,M,P20,5,5+,5+,7,7,0.714285714,5,4,P
+567,nih_1894052,BIOC,BIOC,"Xiong, Yue",comp,M,R01,2,1 to 2,2,5,5,0.4,2,1,R01
+568,nih_1894124,NEUR,NEUR,"Waterman, Marian L",comp,F,R01,2,1 to 2,2,6,6,0.333333333,1,1,R01
+569,nih_1894180,PHAR,PHAR,"Waterman, Michael R",comp,M,P30,3,3 to 4,3,4,4,0.75,5,4,P
+570,nih_1894197,MULT,MULT,"Shenk, Thomas E",comp,M,P01,5,5+,5+,11,8+,0.454545455,2,2,P01
+571,nih_1894213,MULT,MULT,"Hynes, Richard O",comp,M,P01,4,3 to 4,4,7,7,0.571428571,4,3,P01
+572,nih_1894339,AGRI,AGRI,"Gundersen, Gregg G",study,M,R56,3,3 to 4,3,7,7,0.428571429,2,2,R
+573,nih_1894509,NEUR,NEUR,"Bean, Bruce P",comp,M,P01,3,3 to 4,3,7,7,0.428571429,2,2,P01
+574,nih_1894530,BIOC,BIOC,"Falke, Joseph J",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+575,nih_1894753,BIOC,BIOC,"Dowhan, William",study,M,R37,3,3 to 4,3,4,4,0.75,5,4,R
+576,nih_1894756,CENG,CENG,"Raushel, Frank M",study,M,P01,3,3 to 4,3,7,7,0.428571429,2,2,P01
+577,nih_1895501,MULT,MULT,"Menon, Anant K",study,M,R01,2,1 to 2,2,6,6,0.333333333,1,1,R01
+578,nih_1895525,MULT,MULT,"Caplan, Michael J",comp,M,P30,5,5+,5+,6,6,0.833333333,5,4,P
+579,nih_1895526,PHAR,PHAR,"Brouwer, Kim L",study,F,M01,4,3 to 4,4,4,4,1,5,4,M
+580,nih_1895692,NEUR,NEUR,"Whittemore, Scott",comp,M,P20,4,3 to 4,4,8,8+,0.5,2,2,P
+581,nih_1895812,AGRI,AGRI,"Workman, Jerry L",study,M,P41,3,3 to 4,3,4,4,0.75,5,4,P41
+582,nih_1896260,BIOC,BIOC,"Behringer, Richard R",comp,M,P01,4,3 to 4,4,6,6,0.666666667,4,3,P01
+583,nih_1896261,MEDI,MEDI,"Conti, Marco",comp,M,U54,4,3 to 4,4,11,8+,0.363636364,1,1,U
+584,nih_1896269,AGRI,AGRI,"Sokol, Sergei Y",comp,M,R56,3,3 to 4,3,7,7,0.428571429,2,2,R
+585,nih_1896346,AGRI,AGRI,"Magnuson, Terry",comp,M,U54,4,3 to 4,4,7,7,0.571428571,4,3,U
+586,nih_1896477,BIOC,BIOC,"Cheng, Xiaodong",study,M,P41,5,5+,5+,8,8+,0.625,4,3,P41
+587,nih_1896493,CHEM,CHEM,"Lipscomb, John D",study,M,R01,2,1 to 2,2,4,4,0.5,2,2,R01
+588,nih_1896497,IMMU,IMMU,"Johnson, Reid C",study,M,P41,3,3 to 4,3,3,3,1,5,4,P41
+589,nih_1896739,PHYS,OTHER,"Palmer, Arthur G",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+590,nih_1896752,NEUR,NEUR,"Ma, Jian-xing",comp,M,R33,4,3 to 4,4,7,7,0.571428571,4,3,R
+591,nih_1896835,AGRI,AGRI,"Jacobsen, Steven E",study,M,R37,2,1 to 2,2,2,2,1,5,4,R
+592,nih_1896958,BIOC,BIOC,"Blanchard, John S",comp,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+593,nih_1896981,NEUR,NEUR,"Dessauer, Carmen W",study,F,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+594,nih_1897052,CENG,CENG,"Danishefsky, Samuel J",comp,M,R37,2,1 to 2,2,7,7,0.285714286,1,1,R
+595,nih_1897065,CENG,CENG,"Gellman, Samuel H",study,M,P41,3,3 to 4,3,5,5,0.6,4,3,P41
+596,nih_1897079,PHAR,PHAR,"Jusko, William J",study,M,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+597,nih_1897080,MULT,MULT,"Benkovic, Stephen J",study,M,P01,2,1 to 2,2,4,4,0.5,2,2,P01
+598,nih_1897177,MEDI,MEDI,"Paigen, Beverly J",comp,F,P50,5,5+,5+,10,8+,0.5,2,2,P
+599,nih_1897194,PHAR,PHAR,"Olivera, Baldomero M",study,M,P01,1,1 to 2,1,1,1,1,5,4,P01
+600,nih_1897706,CENG,CENG,"Cane, David E",study,M,R01,2,1 to 2,2,3,3,0.666666667,4,3,R01
+601,nih_1897909,MULT,MULT,"Hille, Bertil",comp,M,U54,4,3 to 4,4,6,6,0.666666667,4,3,U
+602,nih_1898054,CENG,CENG,"Keller, Gordon M",comp,M,P20,3,3 to 4,3,9,8+,0.333333333,1,1,P
+603,nih_1898073,MEDI,MEDI,"Piantadosi, Claude A",comp,M,P01,3,3 to 4,3,9,8+,0.333333333,1,1,P01
+604,nih_1898145,AGRI,AGRI,"Gibbs, Richard A",comp,M,P50,6,5+,5+,13,8+,0.461538462,2,2,P
+605,nih_1898240,AGRI,AGRI,"Mann, Richard S",study,M,U01,2,1 to 2,2,5,5,0.4,2,1,U
+606,nih_1898249,AGRI,AGRI,"Zheng, Yi",comp,M,P30,3,3 to 4,3,11,8+,0.272727273,1,1,P
+607,nih_1898255,AGRI,AGRI,"Johnson, Arlen W",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+608,nih_1898291,AGRI,AGRI,"Bishop, Douglas K",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+609,nih_1898316,CHEM,CHEM,"Gao, Jiali",study,M,RC1,2,1 to 2,2,2,2,1,5,4,RC
+610,nih_1898331,BIOC,BIOC,"Parker, Roy",study,M,R37,2,1 to 2,2,2,2,1,5,4,R
+611,nih_1898335,NEUR,NEUR,"Julius, David J",comp,M,P01,5,5+,5+,9,8+,0.555555556,3,3,P01
+612,nih_1898342,MULT,MULT,"Russell, David W",comp,M,U54,5,5+,5+,6,6,0.833333333,5,4,U
+613,nih_1898347,BIOC,BIOC,"Spector, David L",study,M,P01,3,3 to 4,3,4,4,0.75,5,4,P01
+614,nih_1898348,CHEM,CHEM,"Giedroc, David P",study,M,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+615,nih_1898349,AGRI,AGRI,"Geyer, Pamela K",study,F,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+616,nih_1898361,CENG,CENG,"Ragsdale, Stephen W",study,M,P20,4,3 to 4,4,5,5,0.8,5,4,P
+617,nih_1898362,AGRI,AGRI,"Chisholm, Rex L",study,M,U01,3,3 to 4,3,6,6,0.5,2,2,U
+618,nih_1898364,CENG,CENG,"Que, Lawrence",study,M,R37,2,1 to 2,2,2,2,1,5,4,R
+619,nih_1898369,BIOC,BIOC,"Jones, Katherine A",comp,F,P01,4,3 to 4,4,6,6,0.666666667,4,3,P01
+620,nih_1898379,MEDI,MEDI,"Brown, Joan H",comp,F,P01,4,3 to 4,4,6,6,0.666666667,4,3,P01
+621,nih_1898382,MULT,MULT,"Wright, Peter E",study,M,M01,4,3 to 4,4,9,8+,0.444444444,2,2,M
+622,nih_1898387,CENG,CENG,"Groves, John T",study,M,P41,3,3 to 4,3,4,4,0.75,5,4,P41
+623,nih_1898405,MULT,MULT,"Hendrickson, Wayne A",study,M,U54,4,3 to 4,4,9,8+,0.444444444,2,2,U
+624,nih_1898409,AGRI,AGRI,"Forbes, Douglass J",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+625,nih_1898413,MULT,MULT,"Sancar, Aziz",study,M,P01,4,3 to 4,4,5,5,0.8,5,4,P01
+626,nih_1898420,MULT,MULT,"Agard, David A",study,M,P41,4,3 to 4,4,8,8+,0.5,2,2,P41
+627,nih_1898423,CENG,CENG,"Grubbs, Robert H",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+628,nih_1898436,PHAR,PHAR,"Weinshilboum, Richard M",study,M,U19,5,5+,5+,8,8+,0.625,4,3,U
+629,nih_1898437,BIOC,BIOC,"Spudich, John L",study,M,U01,5,5+,5+,5,5,1,5,4,U
+630,nih_1898452,MEDI,MEDI,"Low, Philip S",study,M,R01,2,1 to 2,2,3,3,0.666666667,4,3,R01
+631,nih_1898453,AGRI,AGRI,"Salmon, Edward D",study,M,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+632,nih_1898754,NEUR,NEUR,"Hargreaves, Kenneth M",comp,M,UL1,5,5+,5+,11,8+,0.454545455,2,2,UL
+633,nih_1898854,NULL.,OTHER,"Beauchamp, Robert D",comp,M,P50,2,1 to 2,2,3,3,0.666666667,4,3,P
+634,nih_1898899,AGRI,AGRI,"Pendergast, Ann M",comp,F,R01,1,1 to 2,1,7,7,0.142857143,1,1,R01
+635,nih_1898919,BIOC,BIOC,"Tonks, Nicholas K",comp,M,R37,2,1 to 2,2,4,4,0.5,2,2,R
+636,nih_1898932,PHAR,PHAR,"Marnett, Lawrence J",comp,M,P01,4,3 to 4,4,7,7,0.571428571,4,3,P01
+637,nih_1899028,IMMU,IMMU,"Bendelac, Albert S",comp,M,P01,2,1 to 2,2,7,7,0.285714286,1,1,P01
+638,nih_1899031,IMMU,IMMU,"Atkinson, John P",comp,M,U54,4,3 to 4,4,7,7,0.571428571,4,3,U
+639,nih_1899034,IMMU,IMMU,"Weller, Sandra K",comp,F,R01,3,3 to 4,3,5,5,0.6,4,3,R01
+640,nih_1899905,BIOC,BIOC,"Culotta, Valeria C",study,F,R01,4,3 to 4,4,6,6,0.666666667,4,3,R01
+641,nih_1900165,IMMU,IMMU,"Madhani, Hiten D",study,M,P41,2,1 to 2,2,8,8+,0.25,1,1,P41
+642,nih_1900251,NEUR,NEUR,"Doudna, Jennifer A",study,F,P50,4,3 to 4,4,6,6,0.666666667,4,3,P
+643,nih_1900441,MULT,MULT,"Jacobson, Allan S",study,M,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+644,nih_1900442,AGRI,AGRI,"Mullins, Mary C",comp,F,R56,3,3 to 4,3,8,8+,0.375,2,1,R
+645,nih_1901068,MULT,MULT,"Rosen, Michael K",study,M,P01,2,1 to 2,2,3,3,0.666666667,4,3,P01
+646,nih_1901104,MULT,MULT,"Stevens, Raymond C",comp,M,U54,6,5+,5+,11,8+,0.545454545,3,3,U
+647,nih_1901148,BIOC,BIOC,"Schlaepfer, David D",comp,M,R01,1,1 to 2,1,6,6,0.166666667,1,1,R01
+648,nih_1901433,MULT,MULT,"Cahalan, Michael D",comp,M,P30,3,3 to 4,3,4,4,0.75,5,4,P
+649,nih_1901655,NEUR,NEUR,"Lu, Kun P",comp,M,R01,2,1 to 2,2,9,8+,0.222222222,1,1,R01
+650,nih_1901666,MULT,MULT,"Darst, Seth A",study,M,P41,2,1 to 2,2,8,8+,0.25,1,1,P41
+651,nih_1901667,BIOC,BIOC,"Hochstrasser, Mark",study,M,R37,2,1 to 2,2,4,4,0.5,2,2,R
+652,nih_1901669,PHAR,PHAR,"Feng, Gen-sheng",comp,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+653,nih_1901680,BIOC,BIOC,"Kane, Patricia M",study,F,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+654,nih_1901683,IMMU,IMMU,"Hunt, Donald F",study,M,U54,3,3 to 4,3,4,4,0.75,5,4,U
+655,nih_1901686,BIOC,BIOC,"Turner, Douglas H",study,M,R01,2,1 to 2,2,3,3,0.666666667,4,3,R01
+656,nih_1901724,NEUR,NEUR,"Hall, James E",comp,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+657,nih_1901879,AGRI,AGRI,"Ibrahim, Joseph G",comp,M,P50,3,3 to 4,3,6,6,0.5,2,2,P
+658,nih_1901955,MULT,MULT,"Weissman, Sherman M",comp,M,P50,8,5+,5+,13,8+,0.615384615,4,3,P
+659,nih_1902031,CHEM,CHEM,"Cross, Timothy A",comp,M,P01,2,1 to 2,2,4,4,0.5,2,2,P01
+660,nih_1902089,PHAR,PHAR,"Forman, Stuart A",study,M,P01,2,1 to 2,2,3,3,0.666666667,4,3,P01
+661,nih_1902274,MULT,MULT,"Sabatini, David M",comp,M,R37,4,3 to 4,4,7,7,0.571428571,4,3,R
+662,nih_1903013,NEUR,NEUR,"Yang, Jian",comp,M,R01,1,1 to 2,1,5,5,0.2,1,1,R01
+663,nih_1903163,CHEM,CHEM,"Greenberg, Marc M",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+664,nih_1903214,IMMU,IMMU,"Aiken, Christopher R",comp,M,P50,4,3 to 4,4,10,8+,0.4,2,1,P
+665,nih_1905123,NEUR,NEUR,"Zagotta, William N",comp,M,R01,2,1 to 2,2,4,4,0.5,2,2,R01
+666,nih_1912376,PHAR,PHAR,"Wedegaertner, Philip B",study,M,R56,2,1 to 2,2,3,3,0.666666667,4,3,R
+667,nih_1912633,PHAR,PHAR,"Floyd, Scott R",study,M,U54,4,3 to 4,4,5,5,0.8,5,4,U
+668,nih_1915712,MEDI,MEDI,"Perrella, Mark A",comp,M,P01,3,3 to 4,3,6,6,0.5,2,2,P01
+669,nih_1916052,IMMU,IMMU,"Kirchhausen, Tomas",study,M,U19,5,5+,5+,6,6,0.833333333,5,4,U
+670,nih_1918530,MEDI,MEDI,"Nickerson, Deborah A",comp,F,R01,2,1 to 2,2,5,5,0.4,2,1,R01
+671,nih_1921644,AGRI,AGRI,"Pazour, Gregory J",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+672,nih_1921962,MULT,MULT,"Patel, Smita S",study,F,R37,2,1 to 2,2,4,4,0.5,2,2,R
+673,nih_1922833,PHAR,PHAR,"Schiffer, Celia A",study,F,P01,6,5+,5+,11,8+,0.545454545,3,3,P01
+674,nih_1922866,MULT,MULT,"Lima, Christopher D",study,M,P41,2,1 to 2,2,5,5,0.4,2,1,P41
+675,nih_1922998,CENG,CENG,"Bertozzi, Carolyn R",study,F,R37,3,3 to 4,3,7,7,0.428571429,2,2,R
+676,nih_1923696,NEUR,NEUR,"Zipfel, Warren R",comp,M,P41,3,3 to 4,3,5,5,0.6,4,3,P41
+677,nih_1923715,CENG,CENG,"Longaker, Michael T",comp,M,U01,5,5+,5+,13,8+,0.384615385,2,1,U
+678,nih_1924132,AGRI,AGRI,"Burd, Christopher G",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+679,nih_1924153,MULT,MULT,"Hannon, Gregory J",study,M,P01,6,5+,5+,7,7,0.857142857,5,4,P01
+680,nih_1924755,AGRI,AGRI,"Beachy, Philip A",comp,M,R01,3,3 to 4,3,5,5,0.6,4,3,R01
+681,nih_1924909,MULT,MULT,"Hampton, Randolph Y",comp,M,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+682,nih_1925088,BIOC,BIOC,"Chan, David C",study,M,P41,2,1 to 2,2,4,4,0.5,2,2,P41
+683,nih_1925564,IMMU,IMMU,"Bjorkman, Pamela J",comp,F,P50,6,5+,5+,8,8+,0.75,5,4,P
+684,nih_1925851,IMMU,IMMU,"Padgett, Richard A",study,M,R01,2,1 to 2,2,6,6,0.333333333,1,1,R01
+685,nih_1925859,AGRI,AGRI,"Sekelsky, Jeff J",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+686,nih_1925912,AGRI,AGRI,"Zamore, Phillip D",study,M,R37,4,3 to 4,4,6,6,0.666666667,4,3,R
+687,nih_1926097,MEDI,MEDI,"Brown, Nancy J",comp,F,M01,4,3 to 4,4,9,8+,0.444444444,2,2,M
+688,nih_1926481,AGRI,AGRI,"Almasy, Laura A",comp,F,P01,3,3 to 4,3,7,7,0.428571429,2,2,P01
+689,nih_1926731,NEUR,NEUR,"Garden, Gwenn A",comp,F,P30,3,3 to 4,3,7,7,0.428571429,2,2,P
+690,nih_1926872,BIOC,BIOC,"Sondek, John E",study,M,P01,2,1 to 2,2,6,6,0.333333333,1,1,P01
+691,nih_1927510,NEUR,NEUR,"Gavis, Elizabeth R",study,F,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+692,nih_1928078,NEUR,NEUR,"Cole, Philip A",study,M,U54,3,3 to 4,3,6,6,0.5,2,2,U
+693,nih_1928374,NEUR,NEUR,"Koleske, Anthony J",comp,M,R01,2,1 to 2,2,6,6,0.333333333,1,1,R01
+694,nih_1928383,AGRI,AGRI,"Villeneuve, Anne M",study,F,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+695,nih_1928457,IMMU,IMMU,"Mitchell, Aaron P",comp,M,P01,4,3 to 4,4,11,8+,0.363636364,1,1,P01
+696,nih_1928507,BIOC,BIOC,"Reese, Joseph C",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+697,nih_1929380,BIOC,BIOC,"Keeney, Scott",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+698,nih_1929498,AGRI,AGRI,"Schmidt, Martin C",study,M,P41,2,1 to 2,2,2,2,1,5,4,P41
+699,nih_1929748,MULT,MULT,"Porter, Mary E",study,F,P41,3,3 to 4,3,3,3,1,5,4,P41
+700,nih_1929976,IMMU,IMMU,"Rice, Phoebe A",study,F,R01,3,3 to 4,3,7,7,0.428571429,2,2,R01
+701,nih_1930482,AGRI,AGRI,"Axelrod, Jeffrey D",study,M,R37,2,1 to 2,2,4,4,0.5,2,2,R
+702,nih_1931088,AGRI,AGRI,"Assoian, Richard",comp,M,P01,2,1 to 2,2,9,8+,0.222222222,1,1,P01
+703,nih_1931123,AGRI,AGRI,"Bustamante, Carlos D",comp,M,P50,3,3 to 4,3,6,6,0.5,2,2,P
+704,nih_1931229,MULT,MULT,"Query, Charles C",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+705,nih_1931281,MULT,MULT,"Lee, Jeannie T",study,F,R37,3,3 to 4,3,5,5,0.6,4,3,R
+706,nih_1935794,MULT,MULT,"Farese, Robert V",comp,M,R01,2,1 to 2,2,2,2,1,5,4,R01
+707,nih_1940235,MULT,MULT,"Moazed, Danesh",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+708,nih_1940279,BIOC,BIOC,"Payne, Gregory S",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+709,nih_1940498,BIOC,BIOC,"Bentley, David L",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+710,nih_1940958,AGRI,AGRI,"Broach, James R",study,M,P01,2,1 to 2,2,3,3,0.666666667,4,3,P01
+711,nih_1946121,IMMU,IMMU,"Spearman, Paul W",comp,M,P30,3,3 to 4,3,10,8+,0.3,1,1,P
+712,nih_1950624,CENG,CENG,"Moore, Bradley S",comp,M,P01,3,3 to 4,3,7,7,0.428571429,2,2,P01
+713,nih_1955021,AGRI,AGRI,"Kravitz, Edward A",study,M,R01,2,1 to 2,2,4,4,0.5,2,2,R01
+714,nih_1955185,AGRI,AGRI,"Guthrie, Christine",study,F,R01,1,1 to 2,1,1,1,1,5,4,R01
+715,nih_1955188,IMMU,IMMU,"Losick, Richard M",study,M,P01,2,1 to 2,2,2,2,1,5,4,P01
+716,nih_1955194,AGRI,AGRI,"Rosenbaum, Joel L",study,M,R01,2,1 to 2,2,2,2,1,5,4,R01
+717,nih_1955425,PHAR,PHAR,"Liu, Jun O",comp,M,RC4,4,3 to 4,4,8,8+,0.5,2,2,RC
+718,nih_1955627,NEUR,NEUR,"Kennedy, Robert T",comp,M,P41,3,3 to 4,3,7,7,0.428571429,2,2,P41
+719,nih_1956278,NEUR,NEUR,"Palczewski, Krzysztof",comp,M,U01,5,5+,5+,11,8+,0.454545455,2,2,U
+720,nih_1963356,AGRI,AGRI,"Perrimon, Norbert",study,M,P01,3,3 to 4,3,11,8+,0.272727273,1,1,P01
+721,nih_1964273,NEUR,NEUR,"Zhu, Michael X",comp,M,P30,3,3 to 4,3,8,8+,0.375,2,1,P
+722,nih_1964353,BIOC,BIOC,"Davidson, Victor L",study,M,R37,2,1 to 2,2,2,2,1,5,4,R
+723,nih_1964364,CENG,CENG,"Muir, Tom",study,M,RC2,5,5+,5+,10,8+,0.5,2,2,RC
+724,nih_1964439,CHEM,CHEM,"Corn, Robert M",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+725,nih_1964483,IMMU,IMMU,"Parkinson, John S",study,M,R37,3,3 to 4,3,4,4,0.75,5,4,R
+726,nih_1964508,AGRI,AGRI,"Gelfand, Vladimir I",study,M,P01,3,3 to 4,3,3,3,1,5,4,P01
+727,nih_1964524,IMMU,IMMU,"Brun, Yves V",study,M,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+728,nih_1964607,BIOC,BIOC,"Tamm, Lukas K",study,M,P01,3,3 to 4,3,4,4,0.75,5,4,P01
+729,nih_1964621,AGRI,AGRI,"Horvitz, H R",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+730,nih_1964851,AGRI,AGRI,"Goldberg, Michael L",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+731,nih_1964871,AGRI,AGRI,"Mitchison, Timothy J",study,M,P50,5,5+,5+,9,8+,0.555555556,3,3,P
+732,nih_1964879,NEUR,NEUR,"Lin, Danyu",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+733,nih_1964913,MULT,MULT,"White, Stephen H",study,M,U54,3,3 to 4,3,6,6,0.5,2,2,U
+734,nih_1965001,AGRI,AGRI,"Benfey, Philip N",study,M,P50,2,1 to 2,2,2,2,1,5,4,P
+735,nih_1965035,PHAR,PHAR,"Roberts, L J",study,M,P01,3,3 to 4,3,3,3,1,5,4,P01
+736,nih_1965058,MULT,MULT,"Frank, Joachim",study,M,R37,3,3 to 4,3,4,4,0.75,5,4,R
+737,nih_1965098,AGRI,AGRI,"Arnheim, Norman",study,M,R37,2,1 to 2,2,2,2,1,5,4,R
+738,nih_1965221,MULT,MULT,"Thorner, Jeremy W",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+739,nih_1965444,PHAR,PHAR,"Metcalf, William W",study,M,P01,2,1 to 2,2,2,2,1,5,4,P01
+740,nih_1967618,NEUR,NEUR,"Rudnick, Gary W",comp,M,P01,2,1 to 2,2,4,4,0.5,2,2,P01
+741,nih_1968362,CENG,CENG,"Vajda, Sandor",study,M,P42,2,1 to 2,2,3,3,0.666666667,4,3,P
+742,nih_1968808,IMMU,IMMU,"Swaminathan, Sankar",comp,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+743,nih_1969455,IMMU,IMMU,"Beutler, Bruce A",study,M,U54,5,5+,5+,8,8+,0.625,4,3,U
+744,nih_1969635,AGRI,AGRI,"Relman, David A",comp,M,U54,8,5+,5+,16,8+,0.5,2,2,U
+745,nih_1969643,IMMU,IMMU,"Peterlin, Boris M",comp,M,U19,3,3 to 4,3,3,3,1,5,4,U
+746,nih_1970221,CENG,CENG,"Romesberg, Floyd E",study,M,P41,4,3 to 4,4,8,8+,0.5,2,2,P41
+747,nih_1971652,MEDI,MEDI,"Rosen, Clifford J",comp,M,R01,3,3 to 4,3,8,8+,0.375,2,1,R01
+748,nih_1973518,AGRI,AGRI,"Mullins, R D",study,M,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+749,nih_1975934,MULT,MULT,"Brunger, Axel T",comp,M,P41,3,3 to 4,3,3,3,1,5,4,P41
+750,nih_1978704,ENGI,OTHER,"Ateshian, Gerard A",comp,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+751,nih_1991213,CENG,CENG,"Castner, David G",comp,M,P41,2,1 to 2,2,3,3,0.666666667,4,3,P41
+752,nih_2059300,CENG,CENG,"Kaplan, David L",comp,M,P41,4,3 to 4,4,16,8+,0.25,1,1,P41
+753,nih_2063694,NEUR,NEUR,"Geiger, Jonathan D",comp,M,P20,5,5+,5+,7,7,0.714285714,5,4,P
+754,nih_2081368,PHAR,PHAR,"Shoichet, Brian K",study,M,P41,4,3 to 4,4,7,7,0.571428571,4,3,P41
+755,nih_2081464,MEDI,MEDI,"Aird, William C",comp,M,P01,3,3 to 4,3,10,8+,0.3,1,1,P01
+756,nih_2083900,NEUR,NEUR,"Sengupta, Piali",study,F,P30,4,3 to 4,4,6,6,0.666666667,4,3,P
+757,nih_2090870,NEUR,NEUR,"Ryan, Timothy A",comp,M,P01,3,3 to 4,3,5,5,0.6,4,3,P01
+758,nih_2091450,AGRI,AGRI,"Amon, Angelika B",study,F,P30,2,1 to 2,2,4,4,0.5,2,2,P
+759,nih_2091631,BIOC,BIOC,"Mchaourab, Hassane S",comp,M,U54,3,3 to 4,3,5,5,0.6,4,3,U
+760,nih_2093298,AGRI,AGRI,"Cyr, Douglas M",study,M,R01,2,1 to 2,2,3,3,0.666666667,4,3,R01
+761,nih_2100210,MULT,MULT,"Jiang, Jin",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+762,nih_2105478,AGRI,AGRI,"Godzik, Adam",study,M,UM1,6,5+,5+,10,8+,0.6,4,3,UM
+763,nih_2106767,IMMU,IMMU,"Cheng, Genhong",comp,M,U19,5,5+,5+,11,8+,0.454545455,2,2,U
+764,nih_2132494,PHAR,PHAR,"Cravatt, Benjamin F",comp,M,U54,6,5+,5+,14,8+,0.428571429,2,2,U
+765,nih_2165137,AGRI,AGRI,"Burridge, Keith",comp,M,U54,5,5+,5+,8,8+,0.625,4,3,U
+766,nih_2174668,BIOC,BIOC,"Winey, Mark",study,M,P41,4,3 to 4,4,7,7,0.571428571,4,3,P41
+767,nih_2180106,CENG,CENG,"Kiessling, Laura L",study,F,P41,3,3 to 4,3,6,6,0.5,2,2,P41
+768,nih_2201674,NEUR,NEUR,"Stein, Charles M",comp,M,M01,4,3 to 4,4,4,4,1,5,4,M
+769,nih_2204334,AGRI,AGRI,"Wong, Wing H",comp,M,P20,2,1 to 2,2,10,8+,0.2,1,1,P
+770,nih_2211633,MULT,MULT,"Brugge, Joan S",comp,F,U54,4,3 to 4,4,6,6,0.666666667,4,3,U
+771,nih_2212695,CHEM,CHEM,"Thorson, Jon S",comp,M,P41,4,3 to 4,4,7,7,0.571428571,4,3,P41
+772,nih_2261585,BIOC,BIOC,"Tsukiyama, Toshio",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+773,nih_2278093,CENG,CENG,"Vyavahare, Naren R",comp,M,P20,3,3 to 4,3,6,6,0.5,2,2,P
+774,nih_2279756,BIOC,BIOC,"Shilatifard, Ali",comp,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+775,nih_2401605,CENG,CENG,"Stubbe, Joanne",study,F,P41,2,1 to 2,2,5,5,0.4,2,1,P41
+776,nih_2408887,PHAR,PHAR,"Higgins, Stephen T",comp,M,P50,5,5+,5+,9,8+,0.555555556,3,3,P
+777,nih_2412815,MULT,MULT,"Smithies, Oliver",comp,M,R01,3,3 to 4,3,6,6,0.5,2,2,R01
+778,nih_2414009,IMMU,IMMU,"Dustin, Michael L",comp,M,P01,6,5+,5+,11,8+,0.545454545,3,3,P01
+779,nih_2415974,COMP,OTHER,"Hunter, Lawrence E",comp,M,U01,2,1 to 2,2,5,5,0.4,2,1,U
+780,nih_2418842,IMMU,IMMU,"Ochoa, Augusto C",comp,M,P20,4,3 to 4,4,8,8+,0.5,2,2,P
+781,nih_2419166,MULT,MULT,"Wickens, Marvin P",study,M,R01,2,1 to 2,2,2,2,1,5,4,R01
+782,nih_2419797,MULT,MULT,"Feigon, Juli F",study,F,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+783,nih_2424126,CHEM,CHEM,"Chance, Mark R",comp,M,P30,8,5+,5+,17,8+,0.470588235,2,2,P
+784,nih_2427729,AGRI,AGRI,"Handel, Mary A",comp,F,P01,2,1 to 2,2,4,4,0.5,2,2,P01
+785,nih_2430585,PHAR,PHAR,"Poulos, Thomas L",study,M,P41,3,3 to 4,3,5,5,0.6,4,3,P41
+786,nih_2432142,MULT,MULT,"Bieker, James J",comp,M,P60,4,3 to 4,4,8,8+,0.5,2,2,P
+787,nih_2448085,NEUR,NEUR,"Shapiro, Lawrence",study,M,P41,5,5+,5+,10,8+,0.5,2,2,P41
+788,nih_2452885,NEUR,NEUR,"Desplan, Claude",comp,M,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+789,nih_2534404,CHEM,CHEM,"Xu, Yan",study,F,P01,4,3 to 4,4,10,8+,0.4,2,1,P01
+790,nih_2787897,MULT,MULT,"Xue, Ding",study,M,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+791,nih_2787922,CENG,CENG,"Hammer, Daniel A",comp,M,P01,3,3 to 4,3,8,8+,0.375,2,1,P01
+792,nih_2793446,MULT,MULT,"Eck, Michael J",comp,M,P41,4,3 to 4,4,9,8+,0.444444444,2,2,P41
+793,nih_2793451,AGRI,AGRI,"Gladyshev, Vadim N",study,M,P20,6,5+,5+,11,8+,0.545454545,3,3,P
+794,nih_2967455,AGRI,AGRI,"Barrick, Douglas E",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+795,nih_3052045,IMMU,IMMU,"Severinov, Konstantin V",study,M,U54,4,3 to 4,4,7,7,0.571428571,4,3,U
+796,nih_3052845,AGRI,AGRI,"Khodjakov, Alexey L",study,M,P41,2,1 to 2,2,2,2,1,5,4,P41
+797,nih_3054378,IMMU,IMMU,"Stuart, Kenneth D",comp,M,R01,4,3 to 4,4,9,8+,0.444444444,2,2,R01
+798,nih_3054829,CENG,CENG,"Morken, James P",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+799,nih_3058423,CHEM,CHEM,"Barton, Jacqueline K",study,F,R37,2,1 to 2,2,4,4,0.5,2,2,R
+800,nih_3095885,CHEM,CHEM,"Schepartz, Alanna",study,F,R01,1,1 to 2,1,5,5,0.2,1,1,R01
+801,nih_3102492,MEDI,MEDI,"Miner, Jeffrey H",comp,M,P30,4,3 to 4,4,12,8+,0.333333333,1,1,P
+802,nih_3119619,AGRI,AGRI,"Salzberg, Steven L",comp,M,R01,1,1 to 2,1,6,6,0.166666667,1,1,R01
+803,nih_3131262,IMMU,IMMU,"Liddington, Robert",comp,M,U54,5,5+,5+,5,5,1,5,4,U
+804,nih_3134496,IMMU,IMMU,"Taylor, Ronald K",comp,M,U54,4,3 to 4,4,5,5,0.8,5,4,U
+805,nih_3169176,PHAR,PHAR,"Dean, David A",comp,M,P01,3,3 to 4,3,9,8+,0.333333333,1,1,P01
+806,nih_6064491,IMMU,IMMU,"Koretzky, Gary A",study,M,P01,3,3 to 4,3,5,5,0.6,4,3,P01
+807,nih_6074450,IMMU,IMMU,"Bushman, Frederic D",comp,M,P51,8,5+,5+,14,8+,0.571428571,4,3,P
+808,nih_6089740,IMMU,IMMU,"Zhou, Z H",comp,M,P41,2,1 to 2,2,6,6,0.333333333,1,1,P41
+809,nih_6106905,BIOC,BIOC,"Yang, Xiaolu",comp,M,R01,2,1 to 2,2,6,6,0.333333333,1,1,R01
+810,nih_6107732,CENG,CENG,"Bellis, Susan L",comp,F,P60,4,3 to 4,4,7,7,0.571428571,4,3,P
+811,nih_6108509,PHAR,PHAR,"Bennett, Anton M",comp,M,P01,2,1 to 2,2,5,5,0.4,2,1,P01
+812,nih_6108679,AGRI,AGRI,"Babbitt, Patricia C",study,F,P01,3,3 to 4,3,3,3,1,5,4,P01
+813,nih_6116742,MULT,MULT,"Penczek, Pawel A",study,M,P01,4,3 to 4,4,6,6,0.666666667,4,3,P01
+814,nih_6133591,MULT,MULT,"Mathis, Diane J",comp,F,RC2,5,5+,5+,10,8+,0.5,2,2,RC
+815,nih_6139526,IMMU,IMMU,"Casadevall, Arturo",comp,M,U54,5,5+,5+,8,8+,0.625,4,3,U
+816,nih_6167174,IMMU,IMMU,"Galan, Jorge E",comp,M,U54,3,3 to 4,3,8,8+,0.375,2,1,U
+817,nih_6174570,MULT,MULT,"Benoist, Christophe O",comp,M,RC2,6,5+,5+,9,8+,0.666666667,4,3,RC
+818,nih_6189103,CHEM,CHEM,"Zheng, Xiaofeng S",comp,F,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+819,nih_6199929,AGRI,AGRI,"Cooper, John A",study,M,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+820,nih_6223756,PHAR,PHAR,"Thummel, Kenneth E",study,M,M01,5,5+,5+,6,6,0.833333333,5,4,M
+821,nih_6225979,NEUR,NEUR,"Schon, Eric A",comp,M,P01,3,3 to 4,3,6,6,0.5,2,2,P01
+822,nih_6228781,NEUR,NEUR,"Anderson, Richard A",study,M,P01,2,1 to 2,2,4,4,0.5,2,2,P01
+823,nih_6238739,PHAR,PHAR,"Eaton, David L",comp,M,U19,3,3 to 4,3,6,6,0.5,2,2,U
+824,nih_6244533,CENG,CENG,"Axelsen, Paul H",comp,M,P41,3,3 to 4,3,7,7,0.428571429,2,2,P41
+825,nih_6256752,IMMU,IMMU,"Golenbock, Douglas T",study,M,P01,6,5+,5+,11,8+,0.545454545,3,3,P01
+826,nih_6296838,IMMU,IMMU,"Watkins, Simon C",comp,M,P30,6,5+,5+,18,8+,0.333333333,1,1,P
+827,nih_6298240,IMMU,IMMU,"Clark, Marcus R",study,M,M01,4,3 to 4,4,9,8+,0.444444444,2,2,M
+828,nih_6319575,PHAR,PHAR,"Prossnitz, Eric R",comp,M,U54,4,3 to 4,4,10,8+,0.4,2,1,U
+829,nih_6320746,MULT,MULT,"Weis, William I",study,M,P41,4,3 to 4,4,7,7,0.571428571,4,3,P41
+830,nih_6350682,MULT,MULT,"Thomas, David D",comp,M,U19,5,5+,5+,10,8+,0.5,2,2,U
+831,nih_6356426,MEDI,MEDI,"Moore, Jason H",comp,M,P20,5,5+,5+,13,8+,0.384615385,2,1,P
+832,nih_6364234,AGRI,AGRI,"Chanfreau, Guillaume F",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+833,nih_6375166,BIOC,BIOC,"Wu, Hao",comp,F,P41,4,3 to 4,4,10,8+,0.4,2,1,P41
+834,nih_6380746,NEUR,NEUR,"Cripps, Richard M",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+835,nih_6404316,AGRI,AGRI,"Li, Jian-dong",comp,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+836,nih_6406075,MULT,MULT,"Bartel, David P",study,M,P41,4,3 to 4,4,5,5,0.8,5,4,P41
+837,nih_6409573,BIOC,BIOC,"Luger, Karolin",study,F,P01,2,1 to 2,2,3,3,0.666666667,4,3,P01
+838,nih_6466329,NULL.,OTHER,"Jazwinski, S M",comp,M,P01,4,3 to 4,4,4,4,1,5,4,P01
+839,nih_6477169,AGRI,AGRI,"Mlodzik, Marek",study,M,R01,3,3 to 4,3,9,8+,0.333333333,1,1,R01
+840,nih_6483246,MULT,MULT,"Staley, Jonathan P",study,M,R21,2,1 to 2,2,3,3,0.666666667,4,3,R
+841,nih_6484112,MULT,MULT,"Sinclair, David A",comp,M,P01,3,3 to 4,3,6,6,0.5,2,2,P01
+842,nih_6488610,NEUR,NEUR,"Rout, Michael P",study,M,U54,5,5+,5+,9,8+,0.555555556,3,3,U
+843,nih_6530013,AGRI,AGRI,"Wotton, David",comp,M,P01,2,1 to 2,2,5,5,0.4,2,1,P01
+844,nih_6598163,NEUR,NEUR,"Yan, Shidu",comp,F,P50,2,1 to 2,2,2,2,1,5,4,P
+845,nih_6619701,BIOC,BIOC,"Peterson, Craig L",study,M,P01,3,3 to 4,3,4,4,0.75,5,4,P01
+846,nih_6620309,MEDI,MEDI,"Altman, Russ B",study,M,P01,4,3 to 4,4,9,8+,0.444444444,2,2,P01
+847,nih_6646931,PHYS,OTHER,"Adams, Paul D",study,M,U01,2,1 to 2,2,3,3,0.666666667,4,3,U
+848,nih_6667062,CHEM,CHEM,"Deng, Li",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+849,nih_6667838,NEUR,NEUR,"Vallee, Richard B",comp,M,P41,4,3 to 4,4,6,6,0.666666667,4,3,P41
+850,nih_6691044,IMMU,IMMU,"Bieniasz, Paul D",comp,M,R37,3,3 to 4,3,5,5,0.6,4,3,R
+851,nih_6691073,CHEM,CHEM,"Caprioli, Richard M",comp,M,P41,6,5+,5+,10,8+,0.6,4,3,P41
+852,nih_6721366,IMMU,IMMU,"Cheroutre, Hilde",comp,F,DP1,4,3 to 4,4,7,7,0.571428571,4,3,DP
+853,nih_6721519,NEUR,NEUR,"Deshmukh, Mohanish",comp,M,P30,4,3 to 4,4,6,6,0.666666667,4,3,P
+854,nih_6724242,NEUR,NEUR,"Pestova, Tatyana V",study,F,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+855,nih_6734606,AGRI,AGRI,"Janmey, Paul A",comp,M,P01,4,3 to 4,4,11,8+,0.363636364,1,1,P01
+856,nih_6746193,MULT,MULT,"Tulin, Alexei V",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+857,nih_6780371,NEUR,NEUR,"Oliver, Guillermo C",comp,M,R01,2,1 to 2,2,5,5,0.4,2,1,R01
+858,nih_6981209,CENG,CENG,"Macmillan, David W",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+859,nih_7342015,MULT,MULT,"Hsu, Victor W",study,M,U54,2,1 to 2,2,3,3,0.666666667,4,3,U
+860,nih_7353712,NEUR,NEUR,"Cooper, Thomas A",comp,M,RC2,2,1 to 2,2,5,5,0.4,2,1,RC
+861,nih_7353716,NEUR,NEUR,"Davis, Ronald L",comp,M,RC4,4,3 to 4,4,7,7,0.571428571,4,3,RC
+862,nih_7353736,MEDI,MEDI,"Lupski, James R",comp,M,M01,4,3 to 4,4,9,8+,0.444444444,2,2,M
+863,nih_7354242,AGRI,AGRI,"Goodell, Margaret",comp,F,P50,5,5+,5+,9,8+,0.555555556,3,3,P
+864,nih_7354258,MEDI,MEDI,"Lee, Brendan H",comp,M,M01,6,5+,5+,18,8+,0.333333333,1,1,M
+865,nih_7354264,AGRI,AGRI,NA,NA,,NA,2,1 to 2,2,3,3,0.666666667,4,3,NA
+866,nih_7354268,PHAR,PHAR,"Jaiswal, Anil K",comp,M,R01,1,1 to 2,1,5,5,0.2,1,1,R01
+867,nih_7354530,AGRI,AGRI,"Gutell, Robin R",study,M,R01,1,1 to 2,1,1,1,1,5,4,R01
+868,nih_7354824,NEUR,NEUR,"Allen, Charles N",comp,M,R56,2,1 to 2,2,5,5,0.4,2,1,R
+869,nih_7355008,AGRI,AGRI,"Snell, William J",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+870,nih_7355782,IMMU,IMMU,"Harmsen, Allen G",comp,M,U54,5,5+,5+,10,8+,0.5,2,2,U
+871,nih_7355826,MULT,MULT,"Sharp, Phillip A",comp,M,U54,4,3 to 4,4,7,7,0.571428571,4,3,U
+872,nih_7684565,NEUR,NEUR,"Moraes, Carlos T",comp,M,R56,3,3 to 4,3,8,8+,0.375,2,1,R
+873,nih_7691221,AGRI,AGRI,"Compton, Duane A",study,M,R37,2,1 to 2,2,2,2,1,5,4,R
+874,nih_7693793,NEUR,NEUR,"Pfeffer, Suzanne R",comp,F,R01,3,3 to 4,3,4,4,0.75,5,4,R01
+875,nih_7705133,MULT,MULT,"Greider, Carol W",comp,F,P01,3,3 to 4,3,6,6,0.5,2,2,P01
+876,nih_7709177,MULT,MULT,"Ambros, Victor",study,M,R01,2,1 to 2,2,5,5,0.4,2,1,R01
+877,nih_7714754,AGRI,AGRI,"Smith, William",comp,M,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+878,nih_7733561,IMMU,IMMU,"Culver, Gloria M",study,F,R01,1,1 to 2,1,1,1,1,5,4,R01
+879,nih_7780808,CHEM,CHEM,"Wagner, Gerhard",study,M,P41,5,5+,5+,12,8+,0.416666667,2,2,P41
+880,nih_7827539,BIOC,BIOC,"Stevens, Tom H",study,M,R37,2,1 to 2,2,3,3,0.666666667,4,3,R
+881,nih_7969598,PHAR,PHAR,"Au, Jessie L",comp,F,R37,3,3 to 4,3,10,8+,0.3,1,1,R
+882,nih_8001798,IMMU,IMMU,"Dermody, Terence S",comp,M,R37,3,3 to 4,3,7,7,0.428571429,2,2,R
+883,nih_8005790,IMMU,IMMU,"Lohman, Timothy M",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+884,nih_8005932,MULT,MULT,"Kolodner, Richard D",study,M,P30,3,3 to 4,3,5,5,0.6,4,3,P
+885,nih_8006252,NEUR,NEUR,"Cleveland, Don W",study,M,RC2,5,5+,5+,9,8+,0.555555556,3,3,RC
+886,nih_8015682,AGRI,AGRI,"Neiman, Aaron M",study,M,P41,3,3 to 4,3,4,4,0.75,5,4,P41
+887,nih_8020127,NEUR,NEUR,"Chalfie, Martin",study,M,R01,2,1 to 2,2,2,2,1,5,4,R01
+888,nih_8027998,AGRI,AGRI,"Allison, David B",comp,M,P20,5,5+,5+,15,8+,0.333333333,1,1,P
+889,nih_8058334,IMMU,IMMU,"Summers, Michael F",study,M,P41,4,3 to 4,4,4,4,1,5,4,P41
+890,nih_8063951,CHEM,CHEM,"Schulten, Klaus J",study,M,P41,2,1 to 2,2,7,7,0.285714286,1,1,P41
+891,nih_8063962,NEUR,NEUR,"Sweedler, Jonathan V",comp,M,P30,5,5+,5+,11,8+,0.454545455,2,2,P
+892,nih_8066646,CHEM,CHEM,"Denmark, Scott E",study,M,R01,1,1 to 2,1,3,3,0.333333333,1,1,R01
+893,nih_8066708,CENG,CENG,"Oldfield, Eric",study,M,R01,1,1 to 2,1,7,7,0.142857143,1,1,R01
+894,nih_8068608,AGRI,AGRI,"Haltiwanger, Robert S",study,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+895,nih_8073252,AGRI,AGRI,"Shaw, Janet M",study,F,R01,2,1 to 2,2,3,3,0.666666667,4,3,R01
+896,nih_8080536,CHEM,CHEM,"Smith, Richard D",comp,M,P51,8,5+,5+,19,8+,0.421052632,2,2,P
+897,nih_8114735,BIOC,BIOC,"Kim, Kwang-soo",comp,M,R33,3,3 to 4,3,3,3,1,5,4,R
+898,nih_8139582,IMMU,IMMU,"Gilmore, Michael S",comp,M,P01,4,3 to 4,4,14,8+,0.285714286,1,1,P01
+899,nih_8225311,NEUR,NEUR,"Schwarz, Thomas L",comp,M,R01,1,1 to 2,1,4,4,0.25,1,1,R01
+900,nih_8233471,PHAR,PHAR,"Li, Song",comp,M,U19,3,3 to 4,3,10,8+,0.3,1,1,U
+901,nih_8270374,NEUR,NEUR,"Banerjee, Ruma V",comp,F,P20,3,3 to 4,3,7,7,0.428571429,2,2,P
+902,nih_8328629,MULT,MULT,"Kleckner, Nancy E",study,F,R01,1,1 to 2,1,2,2,0.5,2,2,R01
+903,nih_9574352,PHAR,PHAR,"Jorgensen, William L",comp,M,R01,1,1 to 2,1,2,2,0.5,2,2,R01
